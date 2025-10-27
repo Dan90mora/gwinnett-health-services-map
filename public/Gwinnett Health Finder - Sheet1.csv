@@ -1,491 +1,0 @@
-City,Name,Address,Website,Number,Operating days/hours,Languages,Services Provided,Payments Accepted,Service Area,Requirements,Other
-"Dacula, GA","Northeast Georgia Health System - Dacula","852 Dacula Rd.,  Dacula, GA, 30019 ",https://www.nghs.com/,770-848-9380,"Monday        8:00 AM - 8:00 PM
-Tuesday        8:00 AM - 8:00 PM
-Wednesday        8:00 AM - 8:00 PM
-Thursday        8:00 AM - 8:00 PM
-Friday                8:00 AM - 8:00 PM
-Saturday        8:00 AM - 8:00 PM
-Sunday	8:00 AM - 8:00 PM","English, Spanish","Bariatric Weight Loss, Behavioral Health, Cancer, Diabetes, Emergency & Unplanned Care, Endoscopy, Heart & Vascular, Home Health, Hospice, Imaging/Radiology, Laboratory Services, Long Term Care, Neurosciences, Orthopedics, Occupational Medicine, Pain Medicine, Palliative Care, Pulmonary Rehabilitation, Rehabilitation, Sleep Disorders Center, Substance Abuse Treatment, Surgery, Trauma, Urgent Care, Women & Children, Wound Healing Center.","Medicaid, Medicare, Self Pay",,,
-"Duluth, GA","Bethel Eyecare","2148 Duluth Hwy., #102, Duluth, GA, 30097",https://www.betheleyegroup.com/,770-817-3990,"Monday	9:00 AM - 6:00 PM
-Tuesday	9:00 AM - 6:00 PM
-Wednesday	9:00 AM - 6:00 PM
-Thursday	9:00 AM - 6:00 PM
-Friday		9:00 AM - 6:00 PM
-Saturday	10:00 AM - 3:00 PM",English,"Vision care, Eye exams","Medicaid, Medicare, PeachCare, Self Pay",,,
-,Elevate Your Life Professional Counseling and Coaching,"2805 Peachtree Industrial Blvd Suite 115, Duluth, GA, 30097",https://www.eylcounseling.com/,770-513-2279,"Monday        By Appointment 
-Tuesday        By Appointment 
-Wednesday        By Appointment 
-Thursday        By Appointment 
-Friday                By Appointment ",English,"Mental Health Counseling - Providing individual, couples and family counseling.
-",Sliding Scale Fee ,,,
-,MyEyeDr.,"6555 Sugarloaf Pkwy., Suite #305, Duluth, GA, 30097",https://locations.myeyedr.com/ga/duluth/6555-sugarloaf-pkwy,770-495-0937,"Monday	9:00 AM - 6:00 PM
-Tuesday	9:00 AM - 6:00 PM
-Wednesday	9:00 AM - 6:00 PM
-Thursday	9:00 AM - 6:00 PM
-Friday		9:00 AM - 6:00 PM
-Saturday	9:00 AM - 4:00 PM",English,"Vision care, Eye exams","Medicaid, Medicare, Uninsured/Underinsured, Self Pay",,,
-"Suwanee, GA","EyeBelieve Eyecare & Optical","1295 Old Peachtree Rd. NW #160, Suwanee, GA, 30024 ",https://www.eyebelieveoptical.com/insurance-payments.html,770-545-8401,"Monday        10:00 AM - 5:00 PM
-Tuesday        10:00 AM - 5:00 PM
-Wednesday    10:00 AM - 5:00 PM
-Thursday        10:00 AM - 5:00 PM
-Friday             10:00 AM - 5:00 PM
-Saturday        9:00 AM - 5:00 PM
-",English,"Vision care, Eye exams","Medicare, Self Pay
-",,,
-,Suwanee Family Dentistry,"2566 Lawrenceville-Suwanee Rd, Suwanee, GA, 30024",https://www.suwaneefamilydentistry.com/,678-714-2380,"Monday	7:30 AM - 5:00 PM
-Tuesday	7:30 AM - 5:00 PM
-Wednesday	7:30 AM - 5:00 PM
-Thursday	7:30 AM - 5:00 PM
-Friday		7:30 AM - 1:30 PM
-",English,Dental Care (Adult & Pediatric),Self Pay,"Suwanee, Lawrenceville, Buford, Duluth, and Dacula",,
-,"U & M Family Eyecare","2014 Lawrenceville-Suwanee Rd, Suwanee, GA, 30024 ",https://www.umeyecare.com/insurances,678-649-2020,"Monday 8:00AM-12:00PM & 1:00-5:00PM
-Tuesday 8:00AM-12:00PM & 1:00-5:00PM
-Wednesday 8:00AM-12:00PM & 1:00-5:00PM
-Thursday 8:00AM-12:00PM & 1:00-5:00PM
-Friday 8:00AM-12:00PM & 1:00-5:00PM
-Saturday 8:00 AM - 1:00 PM
-",English,"Vision care, Eye exams","Medicaid, Medicare, PeachCare, Self Pay",,,
-,"Autumn Leaves Sugarloaf-Assisted Living 
-","1475 Satellite Blvd., Suwanee, GA, 30024",https://autumnleaves.com/sugarloaf-centenarian-horace/,678-990-4580 ,"Monday	By Appointment 
-Tuesday	By Appointment 
-Wednesday	By Appointment 
-Thursday	By Appointment 
-Friday	By Appointment 
-",English,"Senior assisted living/memory care "," Sliding Scale Fee 
-",,,
-"Lawernceville, GA","AMA Dental Care","3370 Sugarloaf Pkwy., Suite G8, Lawrenceville, GA, 30044 ",https://www.amadentalcare.com/,770-696-2878,"Monday	9:00 AM - 5:00 PM
-Tuesday	9:00 AM - 5:00 PM
-Wednesday	9:00 AM - 5:00 PM
-Thursday	9:00 AM - 5:00 PM
-Friday		9:00 AM - 5:00 PM
-Saturday	9:00 AM - 2:00 PM","Creole, English and French
-",Dental Care (Adult & Pediatric),"Uninsured/Underinsured, Self Pay
-",,,
-,Brookwood Eyecare,"3370 Sugarloaf Pkwy. B-3, Lawrenceville, GA, 30044",https://www.brookwoodeyes.com/,770-736-7774,"Monday    10:00 AM - 6:00 PM
-Tuesday   10:00 AM - 6:00 PM
-Wednesday  10:00 AM - 6:00 PM
-Friday          10:00 AM - 6:00 PM
-Saturday     12:00 PM - 6:00 PM
-",English,"Vision care, Eye exams
-","Medicaid, Medicare, PeachCare, Self Pay",,,
-,"CHOA - Cardiology - Lawrenceville","738 Old Norcross Rd., Suite 110, Lawrenceville, GA, 30046 ",https://www.choa.org/,404-256-2593 or 800-542-2233,"Monday	8:30 AM - 5:00 PM
-Tuesday	8:30 AM - 5:00 PM
-Wednesday	8:30 AM - 5:00 PM
-Thursday	8:30 AM - 5:00 PM
-Friday		8:30 AM - 5:00 PM","English, Spanish","Providing Advanced, Compassionate Care in 60-plus Pediatric Specialties
-","Medicaid, PeachCare, Uninsured/Underinsured, Self Pay",,,
-,Choice One Dental of Lawrenceville,"65 Lawrenceville-Suwanee Rd., #7, Lawrenceville, GA, 30044
-",https://www.choiceonedentallawrenceville.com/, 678-407-3919,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 12:00 PM
-",English,Dental Care,Self Pay,,,
-,Chris180-Gwinnett Counseling Center,"760 Longleaf Blvd., Suite A, Lawrenceville, GA, 30046",https://chris180.org/counseling-services/,770-722-0080,"Monday	9:00 AM - 5:00 PM
-Tuesday	9:00 AM - 5:00 PM
-Wednesday	9:00 AM - 5:00 PM
-Thursday	9:00 AM - 5:00 PM
-Friday		9:00 AM - 5:00 PM
-","English, Spanish 
-","Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties, ensuring our clients have the resources and support they need, both in-person and virtually at our offices across Metro Atlanta. Individual, family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations, including families, veterans, and the LGBTQ+ and Hispanic communities.","Medicaid, Sliding Scale Fee ",,,
-,"Dental Images of Gwinnett","916 Lawrenceville Hwy, #20, Lawrenceville, GA, 30046",https://dentistinlawrencevillega.com,770-874-4596,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 2:00 PM","English, Spanish",Dental Care,"Uninsured/Underinsured, Self Pay",,,
-,Forster Eyecare,"725 Walther Rd. NW, Lawrenceville, GA, 30046",https://www.forstereyecare.com/,770-513-3300,"Monday        7:30 AM - 6:00 PM
-Tuesday        7:30 AM - 6:00 PM
-Wednesday        7:30 AM - 6:00 PM
-Thursday        7:30 AM - 6:00 PM",English,"Vision care, Eye exams",Self Pay,,,
-,"Four Corners Primary Care Clinic","175 Gwinnett Dr., Suite 213 (2nd floor), Lawrenceville, GA, 30046
-",https://fcpchealth.com/,770-806-2928,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 5:00 PM","English, Spanish, French and Portuguese, Creole, Vietnamese, Hindi, Punjabi, Farsi","Adult Medicine, Pediatrics/Adolescent Care, Family Planning/GYN, Pharmacy, Podiatry (Adult & Pediatric), Health Education & Nutrition Counseling, Medication Assisted Treatment, COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up), COVID-19 Testing for symptomatic patients (not travel), STD/STI Testing, TB Testing, Nephrology Testing, Quantiferon Testing, Blood pressure tracker (Machines free of cost for patients with hypertension, tracks via connected app), Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office, which is the main office. Children are still able to receive services at all locations.","Medicaid , Medicare , PeachCare , Sliding Scale Fee
-",,"State issued ID/Driver’s license Passport or Consulate ID If you have any type of medical insurance, bring insurance card. If you do not have medical Insurance please bring last three pay stubs or most recent bank statements. If self-employed bring most recent Federal Tax Return.
-",
-,"Georgia Clinic - Lawrenceville 
-","845 Scenic Hwy., Suite 100, Lawrenceville, GA, 30046 ",https://gaclinicpc.com/,770-962-6443,"Monday        9:00 AM - 7:00 PM 
-Tuesday        9:00 AM - 7:00 PM 
-Wednesday        9:00 AM - 7:00 PM 
-Thursday        9:00 AM - 7:00 PM 
-Friday                9:00 AM - 7:00 PM 
-Saturday        9:00 AM - 3:00 PM 
-","English, Spanish, Hindi ","Primary Care, Pharmacy, Cardiac Imaging & Testing, Diagnostic Testing / Radiology, Laboratory Testing, Podiatry, Nephrology, Pain Management "," Medicaid, Medicare, Sliding Scale Fee",,"Photo ID, Medications Lists, and Proof of Insurance for Medicaid/Medicare ",
-,"Georgia Eye Associates","771 Old Norcross Rd., #150, Lawrenceville, GA, 30046",https://www.georgiaeyeassociates.com/locations/lawrenceville/?y_source=1_MTA3Njk4NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,770-995-5408,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 5:00 PM
-",English,"Vision care, Eye exams","Medicaid, Medicare, Self Pay
-",,,
-,"Georgia Family Care - Lawrenceville","3560 Sugarloaf Pkwy., Suite 100, Lawrenceville, GA, 30044
-",https://gafamilycare.com/locations/lawrenceville-office/,678-578-4983,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 5:00 PM",English ,"Family Care, Men’s Health, Women’s Health, Pediatric Health, Geriatric Care","Medicaid, Medicare, PeachCare, Self Pay",,,
-,Great Expressions Dental Centers - Lawrenceville,"555 Old Norcross Rd., #120, Lawrenceville, GA, 30046",https://www.greatexpressions.com/dental-offices/dentist-in-lawrenceville-georgia-old-norcross-rd/,770-637-5899,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	7:00 AM - 4:00 PM
-Friday		7:00 AM - 1:00 PM
-","English, Spanish","Dental Care (Adult & Pediatric)","Uninsured/Underinsured , Self Pay",,,
-,"Gwinnett Center Medical Associates (Christopher Crooker, MD) ","748 Old Norcross Rd., Suite 185, Lawrenceville, GA, 30046 ",https://www.drcrooker.com/,770-277-8554,"Monday        7:30 AM - 4:30 PM 
-Tuesday        7:30 AM - 4:30 PM 
-Wednesday        7:30 AM - 4:30 PM 
-Thursday        7:30 AM - 4:30 PM 
-Friday                7:30 AM - 1:30 PM 
-",English,"Annual Examinations, Wellness Plans, Adult Immunizations, Women's Health, Weight Management, Medication Management, Diabetes Education, Hypertension, Geriatrics, Arthritis Care ","Medicare, Self Pay ",,,
-,Gwinnett County Health Department ,"455 Grayson Hwy., Suite 300, Lawrenceville, GA, 30046 
-",https://www.gnrhealth.com/locations/gwinnett/lawrenceville-health-center/,770-339-4283,"Monday        8:00 AM - 5:00 PM 
-Tuesday        8:00 AM - 5:00 PM 
-Wednesday        8:00 AM - 5:00 PM 
-Thursday        8:00 AM - 5:00 PM ","English, Spanish","Child Immunizations, Women, Infants, and Children (WIC), Dental Care, Children Health Check Exams, Children 1st, School Screenings, Teen Services, Family Planning, DNA/Lab Tests, Pregnancy and Prenatal Related Services, Mammograms/Services for Women over 40, Cancer Screenings, Travel & Adult Immunizations, STD Testing, Treatment and Follow-up, TB Testing and Treatment, Disease Testing and Counseling, Environmental Health Services, Refugee Health, PrEP for HIV Prevention","Medicaid, Medicare, PeachCare, Sliding Scale Fee, Self Pay ",,All health services at this location now require an appointment.,
-,"Gwinnett Family Dental Care","3455 Lawrenceville Hwy, Lawrenceville, GA, 30044
-",https://www.gwinnettfamilydentalcare.com/,770-921-1115,"Monday	9:00 AM - 5:00 PM
-Tuesday	9:00 AM - 5:00 PM
-Wednesday	9:00 AM - 5:00 PM
-Thursday	9:00 AM - 5:00 PM
-Friday		9:00 AM - 4:00 PM
-Saturday	9:00 AM - 4:00 PM","English, Spanish, Dutch, Romanian, Creole, Yoruba, Ibo, Kono, Hindi, Gujarati, Russian, Turkish, Persian, Hebrew
-","General Dentistry, Oral Surgery, Cosmetic Procedures
-",Self Pay,,,
-,"Gwinnett Gynecology & Obstetrics 
-","500 Medical Center Blvd., #300, Lawrenceville, GA, 30046",N/A,770-963-1340,"Monday        8:30 AM - 5:00 PM 
-Tuesday        8:30 AM - 5:00 PM 
-Wednesday        8:30 AM - 5:00 PM 
-Thursday        8:30 AM - 5:00 PM 
-Friday                8:30 AM - 5:00 PM","English and Spanish 
-","OBGYN, GYN Surgery, No baby delivery ","Medicaid, Self Pay",,Photo ID and Proof of Insurance ,
-,Gwinnett Surgical Specialists,"631 Professional Dr., Suite 300, Lawrenceville, GA, 30046
-",https://gwinnettsurgicalspecialists.com/,770-962-9977,"Monday	7:00 AM - 3:30 PM
-Tuesday	7:00 AM - 3:30 PM
-Wednesday	7:00 AM - 3:30 PM
-Thursday	7:00 AM - 3:30 PM
-Friday		7:00 AM - 11:00 AM","English, Interpreter Tablet
-","Breast Cancer surgery & reconstruction, General surgery procedures
-","Medicaid, Medicare",,"Apply for financial assistance (suggested) 1st before appointment. Mammograms not done at northside. reports and disks bring in. Masks required.",
-,"Haywood Eye & Vision Care","757 Old Norcross Rd., Lawrenceville, GA, 30046",https://www.haywoodeye.com/,678-442-1161,"Monday	7:00 AM - 5:30 PM
-Tuesday	7:00 AM - 5:30 PM
-Wednesday	7:00 AM - 5:30 PM
-Thursday	7:00 AM - 4:00 PM
-",English,"Vision Care, Eye Exams","Uninsured/Underinsured, Self Pay",,,
-,"KL Medical Clinic
-","905 Parkside Walk Ln., Suite 100A, Lawrenceville, GA, 30043",https://klmedicalclinic.com/,678-442-9486,"Monday        10:00 AM - 3:00 PM
-Tuesday        10:00 AM - 3:00 PM
-Wednesday   10:00 AM - 3:00 PM
-Thursday        10:00 AM - 3:00 PM
-Friday            10:00 AM - 3:00 PM
-Saturday        10:00 AM - 12:00 PM - by appointment only
-",English,"Urgent Care & Primary Care. We take care of non-emergency injuries, physical and immigration medical exams, and general health care.
-","Medicaid, Medicare, Self Pay, Uninsured/Underinsured
-",,,
-,"Lawrenceville Dental Associates
-","171 Gwinnett Dr, #C, Lawrenceville, GA, 30046",https://lawrencevilledentalassociates.com,770-913-6808,"Monday	9:00 AM - 6:00 PM
-Tuesday	9:00 AM - 6:00 PM
-Wednesday	7:00 AM - 4:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 2:00 PM
-",English,Dental Care,Self Pay,,,
-,"Lawrenceville Family Dental Care
-","2087 Cruse Rd. NW, Suite A, Lawrenceville, GA, 30044",https://www.lawrencevilledental.com/,770-962-1977,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 1:00 PM",English,"General Dentistry, Cosmetic Dentistry, Children’s Dentistry
-"," Uninsured/Underinsured, Self Pay",,,
-,"Lawrenceville Family Eyecare
-","575 Professional Dr, Lawrenceville, GA, 30046",https://drkazemeyecare.net/,678-993-2020,"Monday	10:00 AM - 6:00 PM
-Tuesday	10:00 AM - 6:00 PM
-Wednesday	10:00 AM - 6:00 PM
-Friday		8:00 AM - 4:00 PM
-Saturday	9:00 AM - 1:00 PM
-","English, Spanish, Farsi 
-","Vision care, Eye exams
-","Self Pay, Medicare",,,
-,"LifeStance Health - Lawrenceville
-","1838 Old Norcross Rd., Suite 400, Lawrenceville, GA, 30044",https://rhcounselingservices.com/,678-213-2194,"Monday	8:30 AM - 7:00 PM
-Tuesday	8:30 AM - 7:00 PM
-Wednesday	8:30 AM - 7:00 PM
-Thursday	8:30 AM - 7:00 PM
-Friday		8:30 AM - 7:00 PM","English, Spanish","Mental Health Counseling, Individual Therapy, Marriage/Couples Therapy, Family Therapy, Child/Teen Therapy, Online Therapy
-","Medicaid, Medicare, Self Pay
-",,,
-,"Mason Pediatrics","665 Duluth Hwy., Suite 920, Lawrenceville, GA, 30046",https://www.northside.com/mason,678-312-5250,"Monday	8:00 AM - 4:00 PM
-Tuesday	8:00 AM - 4:00 PM
-Wednesday	8:00 AM - 4:00 PM
-Thursday	8:00 AM - 4:00 PM
-Friday		8:00 AM - 4:00 PM
-","English, Spanish","Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday, Wednesday and Friday afternoons Vaccines, as recommended by the Centers for Disease Control and Prevention
-","PeachCare, Self Pay",,,
-,"Maternal-Fetal Specialists
-","500 Medical Center Blvd., #210, Lawrenceville, GA, 30046",https://www.mednax.com/practice/maternalfetalspecialists/,770-822-3344,"Monday   8:00AM-12:00PM & 1:30-4:00PM
-Tuesday   8:00AM-12:00PM & 1:30-4:00PM
-Thursday   8:00AM-12:00PM & 1:30-4:00PM
-Friday       8:00 AM - 3:00 PM","English, Spanish, Language Line
-","Services: Advanced Maternal Age, Complicated Pregnancy, Diabetes Management in Pregnancy, Genetic Counseling, Heart Disease, High Risk Obstetric Care and Consults, High-Risk Pregnancy, Hypertension, In Vitro Fertilization, Inpatient Consultation and Care, Kidney Disease, Management of Multiple Gestations (twins or more), Morbidly Obese Patients, Pre-Conception Counseling, Prematurity Testing","Medicaid, Medicare, Self Pay
-",,"Proof of insurance and ID, Pre-registration paperwork sent once appointment is scheduled which requests any other required docs",
-,"Medlink Georgia Community Health Center ","980 Lawrenceville Hwy., Lawrenceville, GA, 30046",https://medlinkga.org/location/lawrenceville/,770-676-6500,"Monday	8:30 AM - 6:30 PM 
-Tuesday	8:30 AM - 6:30 PM 
-Wednesday	8:30 AM - 6:30 PM 
-Thursday	8:30 AM - 6:30 PM 
-Friday		8:30 AM - 5:00 PM ","English, Spanish","Medical Services - Income based - Family Health Services, Educational Services, Family Planning & Birth Control, Behavioral Health, Medication Assisted Recovery, Occupational Health, Sexual Health, Well Child Checks, Pharmacy Delivery to Office. "," Medicaid, Sliding Scale Fee
-",,,
-,"Milan Eye Center","1250 Scenic Hwy. N., Suite 1700, Lawrenceville, GA, 30045",https://www.milaneyecenter.com/location/snellville/,678-853-7715,"Monday	8:00 AM - 5:30 PM
-Tuesday	8:00 AM - 5:30 PM
-Wednesday	8:00 AM - 5:30 PM
-Thursday	8:00 AM - 5:30 PM
-Friday		8:00 AM - 5:30 PM","English, Spanish","Vision care, Eye exams","Medicaid, Medicare, Self Pay",,,
-,"MyEyeDr.","875 Lawrenceville-Suwanee Rd., Suite 560, Lawrenceville, GA, 30043",N/A,770-963-0370,"Monday	9:00 AM - 6:00 PM
-Tuesday	10:00 AM - 7:00 PM
-Wednesday	9:00 AM - 6:00 PM
-Thursday	10:00 AM - 7:00 PM
-Friday		9:00 AM - 6:00 PM
-Saturday	9:00 AM - 4:00 PM
-",English,"Vision care, Eye exams
-","Medicaid, Medicare, Uninsured/Underinsured, Self Pay",,,
-,"Navigate Recovery - Safe Harbor
-","52 Gwinnett Dr., Suite A, Lawrenceville, GA, 30046",https://www.navigaterecoverygwinnett.org/recovery-resource-center/,678-743-1808,"Monday	9:00 AM - 6:00 PM
-Tuesday	9:00 AM - 6:00 PM
-Wednesday	9:00 AM - 6:00 PM
-Thursday	9:00 AM - 6:00 PM
-Friday		9:00 AM - 6:00 PM
-","English, Spanish","Offer support meetings and coaching sessions. Provides recourse options for treatment, detox, recovery housing, recovery centers, continued recovery coaching and meeting sites.","Sliding Scale Fee","Gwinnett County Residents Only
-","Free services. Court-appointed clients bring court documents.",
-,North Metro Women's Healthcare ,"601 Professional Dr., #290A, Lawrenceville, GA, 30046",N/A,770-338-8331,"Monday	8:30 AM - 5:00 PM 
-Tuesday	8:30 AM - 5:00 PM 
-Wednesday	8:30 AM - 5:00 PM 
-Thursday	8:30 AM - 5:00 PM 
-Friday		8:30 AM - 12:00 PM 
-",English,"Obstetrics & Gynecology, Family Medicine ","Medicaid 
-",,,
-,"Northside Gwinnett OB/GYN - Lawrenceville 
-","1942 Atkinson Rd. NW., Suite 100, Lawrenceville, GA, 30043",https://northsidegwinnettobgyn.com/,678-775-0600,"Monday	8:00 AM - 5:00 PM 
-Tuesday	8:00 AM - 5:00 PM 
-Wednesday	8:00 AM - 5:00 PM 
-Thursday	8:00 AM - 12:00 PM 
-Friday		8:00 AM - 5:00 PM ","English, Spanish","Obstetrics: Midwifery care, Health maintenance during pregnancy, High risk pregnancy care, Routine prenatal care. Gynecological Services: Family Planning, Infertility, Operative Gynecology, Pelvic Pain, Endometriosis, Pre and post menopause, Routine/Well woman Care, Uterine Fibroids, Utero-vaginal Prolapse 
-","Medicaid, Self Pay ",,,
-,"Northside Hospital Gwinnett","1000 Medical Center Blvd., Lawrenceville, GA, 30045",https://www.northside.com/locations/northside-hospital-gwinnett,678-312-1000,"Monday	24 Hours
-Tuesday	24 Hours
-Wednesday	24 Hours
-Thursday	24 Hours
-Friday		24 Hours
-Saturday	24 Hours
-Sunday	24 Hours
-","English, Spanish","Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care, cardiac, maternity and cancer services.",Sliding Scale Fee,,,Parking Rates - First 30 Minutes: Free; 31 Minutes & Over: $3 / Day; Day Pass: $6 / 24 hours; Lost Ticket: $10
-,"Now Eye See Family Eye Care
-","3153 Sugarloaf Pkwy. #201, Lawrenceville, GA, 30045",https://www.now-eye-see.com/,770-682-6525,"Monday        10:00 AM - 7:00 PM
-Tuesday        10:00 AM - 7:00 PM
-Wednesday        9:00 AM - 6:00 PM
-Thursday        9:00 AM - 6:00 PM
-Friday                7:30 AM - 4:30 PM
-Saturday	9:00 AM - 1:00 PM
-",English,"Vision care, Eye exams",Self pay,,,
-,"Obria Medical Clinic - Lawrenceville","565 Old Norcross Rd., Suite 200, Lawrenceville, GA, 30046",https://obria.org/lawrenceville/clinic/lawrenceville-ga/,770-338-1680,"Monday	9:00 AM - 5:00 PM
-Tuesday	12:00 PM - 8:00 PM
-Wednesday	10:00 AM - 8:00 PM
-Thursday	9:00 AM - 5:00 PM
-","All languages are served. Some members of the staff speak different languages, including Spanish, French, and Creole, and English. Language line is used for all other languages.","Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store, which carries basic baby care items, along with some big items.","Medicaid, Uninsured/Underinsured, Self Pay",,"Proof of Medicaid insurance; Photo ID",
-,"Optima Dental
-","1790 Atkinson Rd. NW, Building 4, Suite B, Lawrenceville, GA, 30043",https://www.optimafamilydentist.com,770-962-4322,"Monday	8:00 AM - 3:00 PM
-Tuesday	8:00 AM - 3:00 PM
-Wednesday	8:00 AM - 3:00 PM
-Thursday	8:00 AM - 3:00 PM
-",English,"Dental Care (Adult & Pediatric)
-",Self Pay,,,
-,"Peach Smiles
-","4825 Sugarloaf Pkwy, A, Lawrenceville, GA, 30044",https://www.peachsmiles.com/contact/,770-637-1041,"Monday	9:00 AM - 5:00 PM
-Tuesday	9:00 AM - 5:00 PM
-Wednesday	9:00 AM - 5:00 PM
-Thursday	9:00 AM - 5:00 PM
-Friday		9:00 AM - 5:00 PM
-",English," Dental Care (Adult & Pediatric)
-","Uninsured/Underinsured, Self Pay",,,
-,"Peachtree Immediate Care - Lawrenceville
-","696 Grayson Hwy., Lawrenceville, GA, 30046",https://www.peachtreemed.com/,770-963-0927,"Monday	8:00 AM - 8:00 PM
-Tuesday	8:00 AM - 8:00 PM
-Wednesday	8:00 AM - 8:00 PM
-Thursday	8:00 AM - 8:00 PM
-Friday		8:00 AM - 8:00 PM
-Saturday	8:00 AM - 8:00 PM
-Sunday	8:00 AM - 8:00 PM
-","English, Spanish
-","Covid-19 Testing, Urgent Care, Family Care, Minor Illness & Injury, COVID-19 PCR Testing, COVID-19 Rapid Antigen Testing, Sports Physicals, X-rays, On-Site Labs, Occupational Medicine, *For patients under 2 years old, please call clinic.
-","Medicare, PeachCare, Self Pay",,,
-,"Piedmont Urgent Care - WellStreet 
-","3330 Sugarloaf Pkwy., Lawrenceville, GA, 30044",https://www.wellstreet.com/ ,678-710-2727,"Monday	8:00 AM - 8:00 PM 
-Tuesday	8:00 AM - 8:00 PM 
-Wednesday	8:00 AM - 8:00 PM 
-Thursday	8:00 AM - 8:00 PM 
-Friday		8:00 AM - 8:00 PM 
-Saturday	9:00 AM - 6:00 PM 
-Sunday	9:00 AM - 6:00 PM 
-","English, Spanish
-",Urgent Care,"Medicaid, Medicare, Uninsured/Underinsured, Self Pay 
-",,,
-,"Planned Parenthood - Gwinnett Health Center
-","798 Lawrenceville-Suwanee Rd., Suite 300, Lawrenceville, GA, 30043",https://www.plannedparenthood.org/planned-parenthood-southeast,404-688-9300,"Tuesday	10:00 AM - 6:00 PM
-Wednesday	8:30 AM - 4:30 PM
-Thursday	10:00 AM - 6:00 PM
-Friday		8:30 AM - 4:30 PM
-Saturday	8:30 AM - 4:30 PM
-","English, Spanish
-","Abortion services/referrals, Birth control/emergency contraception, General healthcare, HIV Services, STD Testing/Treatment, Men/Women's services, Transgender hormone therapy, Pregnancy testing & services
-","Uninsured/Underinsured, Self Pay",,"ID and proof of insurance
-",
-,"Preventive Health Clinic
-","455 Grayson Hwy., Suite 400, Lawrenceville, GA, 30046",https://www.gnrhealth.com/locations/gwinnett/preventive-health-dept/,"770-339-4283
-","Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-","English, Spanish, Vietnamese
-","Child Immunizations, Women, Infants, and Children (WIC), Dental Care, Children Health Check Exams, Children 1st, School Screenings, Teen Services, Family Planning, DNA/Lab Tests, Pregnancy and Prenatal Related Services, Mammograms/Services for Women over 40, Cancer Screenings, Travel Immunizations, Adult Immunizations, STD Testing, Treatment and Follow-up, TB Testing and Treatment, Disease Testing and Counseling, Environmental Health Services, Refugee Health, PrEP for HIV Prevention",Medicaid,,,
-,"Quality Eyecare
-","5900 Sugarloaf Pkwy., Suite#125, Lawrenceville, GA, 30043",https://www.gaqualityeyecare.com/,678-847-5331,"Monday	11:00 AM - 6:30 PM
-Tuesday	11:00 AM - 6:30 PM
-Wednesday	11:00 AM - 6:30 PM
-Thursday	11:00 AM - 6:30 PM
-Friday		11:00 AM - 6:30 PM
-Saturday	11:00 AM - 6:30 PM",English,"Vision care, Eye exams
-",Self Pay,,,
-,Reagan Medical Center - Grayson Hwy ,"289 Grayson Hwy, Lawrenceville, GA 30046",https://rmc.md/,770-771-5560,"Monday	8:00 AM - 7:30 PM 
-Tuesday	8:00 AM - 7:30 PM 
-Wednesday	8:00 AM - 7:30 PM 
-Thursday	8:00 AM - 7:30 PM 
-Friday		8:00 AM - 7:30 PM 
-",Many front office staff members speak English and Spanish. ,"Services provided at all locations include: blood work, ABIs (Ankle Brachial Index), EKGs, geriatric care, Holter monitors, Lung Function Tests, pain management, pap smears, suturing, urgent care, acute care, physicials and medical help with smoke cessation, fractures and splints, weight loss, workers compensation, X-rays, and pain management 
-"," Medicaid, Medicare, PeachCare, Uninsured/Underinsured, Self Pay 
-",,Insured patients must have an insurance card and ID. Medicare patients must have the name of the physician at the facility listed as PCP. This can be done at the facility once they are there by calling Medicare. ,
-,"Rodriguez MD 
-","771 Old Norcross Rd., Suite 120, Lawrenceville, GA, 30046",https://lawrenceville-doctors.com/,770-670-6920,"Monday	7:30 AM - 5:00 PM 
-Tuesday	7:30 AM - 5:00 PM 
-Wednesday	7:30 AM - 5:00 PM 
-Thursday	7:30 AM - 5:00 PM 
-Friday		7:30 AM - 5:00 PM 
-
-
-","English and Spanish, French, Haitian Creole 
-","General Practice (Smoking Cessation, Emphysema, Arthritis, Mole Biopsy and Excisions, Lacerations & Sutures, Diabetes, Bone Density/Osteoporosis Treatment, Mental Health), Family Medicine (Women's Health, Preventative Health, Family Planning, Communicable Diseases, Immunizations, Allergy Testing, Cold & Flu, Labs), Medical Weight Loss, COVID-19 Resources 
-"," Medicaid, Medicare, Self Pay ","Dacula, Duluth, Grayson, Lawrenceville, Lilburn, Loganville, Norcross, Snellville, Suwanee 
-"," Bring active medications list or bottles, previous PCP info or specialist info, Photo ID & Proof of insurance ",
-,"Southern Surgical Associates
-","743 Old Norcross Rd., Lawrenceville, GA, 30046",https://gwinnettgeneralsurgeons.com/," 770-513-1763","Monday	8:30 AM - 5:00 PM
-Tuesday	8:30 AM - 5:00 PM
-Wednesday	8:30 AM - 5:00 PM
-Thursday	8:30 AM - 5:00 PM
-Friday		8:30 AM - 5:00 PM
-","English, Spanish","Hernia Repairs, Breast Procedures, Soft tissue excisions, Laparoscopic cholecystectomies, Hemorrhoidectomies, Pilonidal cystectomies
-","Medicaid, Medicare",,May download new-patient forms on website for first time visits. Bring proof of insurance and ID,
-,Salveo Integrative Health ,"311 Gwinnett Dr. SW, Lawrenceville, GA, 30046",https://salveohealth.org/,"770-910-9196","Monday	9:00 AM - 5:00 PM 
-Tuesday	9:00 AM - 5:00 PM 
-Wednesday	9:00 AM - 5:00 PM 
-Thursday	9:00 AM - 5:00 PM 
-Friday		9:00 AM - 5:00 PM 
-",English,"Salveo psychiatrists provide treatment for Depression, Anxiety, Attention Deficit Disorder, Child & Adolescent Behavior Disorders, Psychosis, Dementia, Alzheimer’s Disease, Bipolar Disorder, Substance Abuse, Trauma, Grief, Family Issues, LGBTQ Issues, and many other behavioral health concerns.
-",Sliding Scale Fee,,,"Walk Ins - Monday, Wednesday, Thursdays 9am – 3pm"
-,"Strickland Family Medicine Center
-","665 Duluth Hwy., Suite 501, Lawrenceville, GA, 30046",https://www.northside.com/locations/strickland-family-medicine-center," 678-312-0400
-","Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 8:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 5:00 PM","English, Spanish","Newborn care to geriatrics, including maternity care
-",,,,
-,"Sugarloaf Urgent Care
-","4835 Sugarloaf Pkwy., #200, Lawrenceville, GA, 30044",https://www.sugarloafurgentcare.com/,470-375-5940,"Monday	8:30 AM - 7:00 PM
-Tuesday	8:30 AM - 7:00 PM
-Wednesday	8:30 AM - 7:00 PM
-Thursday	8:30 AM - 7:00 PM
-Friday		8:30 AM - 7:00 PM
-Saturday	8:30 AM - 4:00 PM
-Sunday	11:30 AM - 5:00 PM
-","English, Spanish, French, Haitian-Creole, Hindi, Urdu, Gujrati
-"," Urgent Care, Covid-19 Testing","Medicaid, Medicare, Self Pay, Uninsured/Underinsured, PeachCare",,,
-,Sugarloaf Vision Center,"4825 Sugarloaf Pkwy., Ste F, Lawrenceville, GA, 30044",https://www.sugarloafvisioncenter.com/,770-559-9670,"Monday	9:30 AM - 6:00 PM
-Tuesday	10:00 AM - 5:00 PM
-Wednesday	9:30 AM - 6:00 PM
-Thursday	10:00 AM - 5:00 PM
-Friday		9:30 AM - 6:00 PM
-Saturday	9:30 AM - 5:00 PM
-",English,"Vision care, Eye exams","Medicare, Self Pay	",,,
-,"Suwanee Pediatrics 
-","1155 Lawrenceville-Suwanee Rd., Lawrenceville, GA, 30043",https://suwaneepediatrics.com/,678-442-0205,"Monday	9:00 AM - 5:00 PM 
-Tuesday	9:00 AM - 5:00 PM 
-Wednesday	9:00 AM - 5:00 PM 
-Thursday	9:00 AM - 5:00 PM 
-Friday		9:00 AM - 1:00 PM 
-Saturday	8:00 AM - 11:00 AM 
-","English, Spanish, Vietnamese, Language Line 
-","Pediatric Care: Immunizations, Allergy & Asthma, Sick Care Visits, Wellness Check-ups, Education/Concern Visits, Ear Lavage. Adolescent Care, Adult Services, Labs, Dermatology 
-","Medicaid, PeachCare, Sliding Scale Fee, Self Pay 
-",,"Photo ID, Proof of Insurance, Shot records",
-,"The Hope Clinic 
-","121 Langley Dr., Lawrenceville, GA, 30046",https://www.hopeclinicgwinnett.info/,770-685-1300 ,"Monday	7:30 AM - 4:00 PM 
-Tuesday	7:30 AM - 4:00 PM 
-Wednesday	7:30 AM - 12:00 PM 
-Thursday	7:30 AM - 4:00 PM 
-Friday		7:30 AM - 12:00 PM ","English, Encouraged to bring interpreter for other languages "," General Medical Services, Chronic Disease Management (appointment only), Mental Health (thru partnership with Salveo Integrative Health), Psychiatry, Medication Assistance, Lab & X-Ray, Ultrasound Services 
-","Medicaid, Medicare, Uninsured/Underinsured, Sliding Scale Fee ",,"For first visits, bring medications list and/or papers from hospital visit if doing hospital follow-up. Proof of income for uninsured. ",
-,"Tonge Eye Care
-","170 Camden Hill Rd., , Lawrenceville, GA, 30046",https://visionsource-tongeeyecare.com/,770-963-2903,"Monday        8:30 AM - 6:30 PM
-Tuesday        8:30 AM - 5:30 PM
-Wednesday        8:30 AM - 5:30 PM
-Thursday        8:30 AM - 5:30 PM
-Friday                8:30 AM - 2:00 PM",English,"Vision care, Eye exams
-","Medicare , Self Pay
-",,,
-,"Transforming Smiles - Bruce E. Carter, DMD
-","751 Old Norcross Rd, Lawrenceville, GA, 30046",https://www.gwinnettsmiles.com/contact-us.html,770-574-4540,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		By appointment only
-","English, Spanish
-",Dental care,Self-pay,,,
-,"Truth's Community Clinic
-","250 Langley Dr., Suite 1316, Lawrenceville, GA, 30046",https://www.truthsclinic.org/,770-277-4675 ,"Monday 10:00 AM - 3:00 PM  
-","English, Spanish interpreter available upon request.
-","Non-emergency primary care, which includes medical, pharmaceutical, and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure, high cholesterol, non-insulin diabetes, asthma, thyroid issues, and women's health. The clinic is unable to manage conditions such as common colds, insulin-dependent diabetes, cancer, orthopedic concerns, and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals, crowns, and implants. 
-","Uninsured/Underinsured, Sliding Scale Fee, Self Pay ","Patients must reside in Lawrenceville, Buford, Dacula, and Auburn (Gwinnett County side of Buford and Auburn) Medical patients may qualify if they live outside of these areas, but dental patients MUST live within these locations. ","Must have no insurance, no Medicaid or Medicare; fall within 100 % of the Federal Poverty Level; and have a condition that Truth's Community Clinic treats. Patients who qualify based on the criteria above must then complete an application and call for an appointment. Complete and return the New Patient Forms on Monday to verify that you qualify for services. If you qualify, an appointment will be scheduled. Those with no proof of income will not be turned away from services. BY APPOINTMENT ONLY: Contact the clinic between 10 am - 3 pm Monday to see if you qualify for services. Appointments are scheduled for qualified patients on the 1st & 3rd Tuesday nights and on the 2nd and 4th Monday mornings. ",
-,"View Point Health
-","175 Gwinnett Dr., Suite 260, Lawrenceville, GA, 30046",https://www.myviewpointhealth.org/locations/,678-209-2411 ,"Monday	8:00 AM - 5:00 PM 
-Tuesday	8:00 AM - 5:00 PM 
-Wednesday	8:00 AM - 5:00 PM 
-Thursday	8:00 AM - 5:00 PM 
-Friday		8:00 AM - 5:00 PM","English, Spanish
-","Services for those with intellectual and developmental disabilities, mental health and substance abuse disorders. Provides outpatient care as well as community, specialty, and acute services. 
-","Medicaid, Medicare, Uninsured/Underinsured",," Driver’s License or state-issued ID card, your health insurance cards, proof of address (a recent utility bill, rent receipt, or lease agreement in your name), proof of income (paycheck stub, letter from Social Security, or Earning Statement from the Department of Labor). ",
-,"Wood Eyecare Center
-","2100 Riverside Pkwy. #108, Lawrenceville, GA, 30043",https://www.woodeyecare.com/,"770-237-8820","Tuesday	9:00 AM - 6:00 PM
-Wednesday	9:30 AM - 6:00 PM
-Thursday	9:30 AM - 6:00 PM
-Friday		9:00 AM - 6:00 PM
-Saturday	9:00 AM - 1:00 PM","English, Spanish"," Vision care, Eye exams
-"," Medicare, Self Pay",,,
-,Toxicology Associates of North Georgia,"751 Collins Hill Rd. Lawrenceville, GA, 30046",http://www.tanghelp.com/,770-248-1616,"Monday	5:30 AM - 10:00 AM
-Tuesday	5:30 AM - 10:00 AM
-Wednesday	5:30 AM - 10:00 AM
-Thursday	5:30 AM - 10:00 AM
-Friday		5:30 AM - 10:00 AM
-Saturday	6:00 AM - 8:00 AM",English,"Medication Assisted Treatment for Opiod Addiction",Self Pay,,,
-,"Maternal Gynerations
-","600 Professional Dr., Suite 200, Lawrenceville, GA, 30046",https://www.matgyn.com/,770-513-4000,"Monday	8:00 AM - 5:00 PM
-Tuesday	8:00 AM - 5:00 PM
-Wednesday	8:00 AM - 5:00 PM
-Thursday	8:00 AM - 5:00 PM
-Friday		8:00 AM - 2:00 PM
-","English, Interpreter Line
-","Obstetrics, Gynecology, Infertility, Mammography, Lab Testing, Ultrasound, Cosmetic Botox
-",Proof of insurance and ID,,,
-,"Autumn Leaves Sugarloaf-Assisted Living 
-","1475 Satellite Blvd., Suwanee, GA, 30024",https://autumnleaves.com/sugarloaf-centenarian-horace/,678-990-4580 ,"Monday	By Appointment 
-Tuesday	By Appointment 
-Wednesday	By Appointment 
-Thursday	By Appointment 
-Friday	By Appointment 
-",English,"Senior assisted living/memory care "," Sliding Scale Fee 
-",,,

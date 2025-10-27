@@ -266,7 +266,7 @@ const FilterPanel = ({ onFiltersChange, isLoading, locationCount = 0, onClearFil
         {/* Filtro por Idioma */}
         <div className="flex-1 min-w-[120px] md:flex-none md:w-[calc(20%-8px)]">
           <FilterChip
-            title="Language"
+            title="Service provider language"
             value={activeFilters[FILTER_TYPES.LANGUAGE]}
             options={LANGUAGE_FILTER_OPTIONS}
             type="select"
@@ -288,7 +288,7 @@ const FilterPanel = ({ onFiltersChange, isLoading, locationCount = 0, onClearFil
         {/* Filtro por Métodos de Pago */}
         <div className="flex-1 min-w-[120px] md:flex-none md:w-[calc(20%-8px)]">
           <FilterChip
-            title="Payment"
+            title="Payment methods"
             value={activeFilters[FILTER_TYPES.PAYMENT_METHODS]}
             options={PAYMENT_METHOD_OPTIONS.slice(1)} // Omitir la opción "cualquier método"
             type="checkbox"
