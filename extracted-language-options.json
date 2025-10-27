@@ -1,0 +1,95 @@
+{
+  "languages": [
+    "creole",
+    "english",
+    "farsi",
+    "french",
+    "gujarati",
+    "hebrew",
+    "hindi",
+    "portuguese",
+    "punjabi",
+    "russian",
+    "spanish",
+    "turkish",
+    "urdu",
+    "vietnamese"
+  ],
+  "languageOptions": [
+    {
+      "value": "creole",
+      "label": "Creole"
+    },
+    {
+      "value": "english",
+      "label": "English"
+    },
+    {
+      "value": "farsi",
+      "label": "Farsi"
+    },
+    {
+      "value": "french",
+      "label": "French"
+    },
+    {
+      "value": "gujarati",
+      "label": "Gujarati"
+    },
+    {
+      "value": "hebrew",
+      "label": "Hebrew"
+    },
+    {
+      "value": "hindi",
+      "label": "Hindi"
+    },
+    {
+      "value": "portuguese",
+      "label": "Portuguese"
+    },
+    {
+      "value": "punjabi",
+      "label": "Punjabi"
+    },
+    {
+      "value": "russian",
+      "label": "Russian"
+    },
+    {
+      "value": "spanish",
+      "label": "Spanish"
+    },
+    {
+      "value": "turkish",
+      "label": "Turkish"
+    },
+    {
+      "value": "urdu",
+      "label": "Urdu"
+    },
+    {
+      "value": "vietnamese",
+      "label": "Vietnamese"
+    }
+  ],
+  "statistics": {
+    "english": 65,
+    "spanish": 34,
+    "french": 5,
+    "creole": 6,
+    "vietnamese": 3,
+    "hindi": 4,
+    "portuguese": 1,
+    "punjabi": 1,
+    "farsi": 2,
+    "turkish": 1,
+    "russian": 1,
+    "hebrew": 1,
+    "gujarati": 1,
+    "urdu": 1
+  },
+  "total": 65,
+  "withLanguages": 65,
+  "withoutLanguages": 0
+}

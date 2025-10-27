@@ -1,0 +1,482 @@
+import { useEffect, useRef, useState, useCallback, useMemo } from 'react';
+import { Map, View } from 'ol';
+import TileLayer from 'ol/layer/Tile';
+import VectorLayer from 'ol/layer/Vector';
+import VectorSource from 'ol/source/Vector';
+import OSM from 'ol/source/OSM';
+import { defaults as defaultControls, FullScreen, ScaleLine } from 'ol/control';
+import { fromLonLat } from 'ol/proj';
+import { Feature } from 'ol';
+import { Point } from 'ol/geom';
+import { Style, Icon } from 'ol/style';
+import Overlay from 'ol/Overlay';
+import MapControls from './MapControls';
+import { extractCoordinatesFromGoogleMaps, createMarkerStyle } from '../utils/mapUtils';
+import { debounce } from '../utils/debounce';
+import 'ol/ol.css';
+
+const MapComponent = ({ locations = [], selectedLocationId, onLocationSelect, isLoading = false }) => {
+  const mapRef = useRef();
+  const mapInstanceRef = useRef();
+  const vectorLayerRef = useRef();
+  const popupRef = useRef();
+  const popupOverlayRef = useRef();
+  const [isMapReady, setIsMapReady] = useState(false);
+  const [selectedLocation, setSelectedLocation] = useState(null);
+  const [mapLoading, setMapLoading] = useState(false);
+
+  // Optimización: Memoizar los estilos de marcadores
+  const markerStyles = useMemo(() => {
+    const colors = {
+      medical: '#EF4444',
+      dental: '#3B82F6',
+      vision: '#8B5CF6',
+      mental_health: '#10B981',
+      pharmacy: '#F59E0B',
+      other: '#6B7280'
+    };
+    
+    return Object.entries(colors).reduce((acc, [type, color]) => {
+      acc[type] = createMarkerStyle(color);
+      return acc;
+    }, {});
+  }, []);
+
+  // Función auxiliar para obtener coordenadas aproximadas por ciudad
+  const geocodeAddress = useCallback((address, city) => {
+    // Coordenadas aproximadas de ciudades de Gwinnett County
+    const cityCoordinates = {
+      'Lawrenceville': [-84.0016, 33.9562],
+      'Duluth': [-84.1447, 34.0028],
+      'Suwanee': [-84.0713, 34.0518],
+      'Dacula': [-83.9079, 34.0042],
+      'Norcross': [-84.2135, 33.9412],
+      'Tucker': [-84.2197, 33.8515],
+      'Atlanta': [-84.3880, 33.7490],
+      'Buford': [-84.0052, 34.1206]
+    };
+    
+    // Buscar coordenadas por ciudad
+    for (const [cityName, coords] of Object.entries(cityCoordinates)) {
+      if (city && city.toLowerCase().includes(cityName.toLowerCase())) {
+        return coords;
+      }
+      if (address && address.toLowerCase().includes(cityName.toLowerCase())) {
+        return coords;
+      }
+    }
+    
+    // Por defecto, centro de Gwinnett County
+    return [-84.0719, 33.9526];
+  }, []);
+
+  // Optimización: Procesar coordenadas en lotes para mejor performance
+  const processLocationCoordinates = useCallback(async (locations) => {
+    const batchSize = 50;
+    const processed = [];
+    
+    setMapLoading(true);
+    
+    for (let i = 0; i < locations.length; i += batchSize) {
+      const batch = locations.slice(i, i + batchSize);
+      
+      // Procesar lote actual
+      const batchProcessed = batch.map((location) => {
+        let coordinates = null;
+        
+        if (location.googleMapsUrl) {
+          coordinates = extractCoordinatesFromGoogleMaps(location.googleMapsUrl);
+        }
+        
+        if (!coordinates && location.address) {
+          coordinates = geocodeAddress(location.address, location.city);
+        }
+        
+        return coordinates ? { ...location, coordinates } : null;
+      }).filter(Boolean);
+      
+      processed.push(...batchProcessed);
+      
+      // Pequeña pausa para no bloquear la UI
+      if (i + batchSize < locations.length) {
+        await new Promise(resolve => setTimeout(resolve, 10));
+      }
+    }
+    
+    setMapLoading(false);
+    return processed;
+  }, [geocodeAddress]);
+
+  // Optimización: Debounce para actualizaciones de marcadores
+  const updateMarkersDebounced = useCallback(
+    debounce(async (locations) => {
+      if (!isMapReady || !vectorLayerRef.current || locations.length === 0) return;
+      
+      const vectorSource = vectorLayerRef.current.getSource();
+      vectorSource.clear();
+      
+      console.log(`Procesando ${locations.length} ubicaciones para el mapa...`);
+      
+      const processedLocations = await processLocationCoordinates(locations);
+      const features = [];
+      
+      processedLocations.forEach((location) => {
+        if (location.coordinates) {
+          const feature = new Feature({
+            geometry: new Point(fromLonLat(location.coordinates)),
+            locationData: location
+          });
+          
+          const serviceType = location.serviceType || 'other';
+          feature.setStyle(markerStyles[serviceType] || markerStyles.other);
+          
+          features.push(feature);
+        }
+      });
+      
+      vectorSource.addFeatures(features);
+      
+      console.log(`Agregados ${features.length} marcadores de ${locations.length} ubicaciones`);
+      
+      // Ajustar vista si hay marcadores
+      if (features.length > 0) {
+        const extent = vectorSource.getExtent();
+        const view = mapInstanceRef.current.getView();
+        
+        setTimeout(() => {
+          view.fit(extent, {
+            padding: [50, 50, 50, 50],
+            maxZoom: 15,
+            duration: 800
+          });
+        }, 100);
+      }
+    }, 300),
+    [isMapReady, markerStyles, processLocationCoordinates]
+  );
+
+  useEffect(() => {
+    const initializeMap = async () => {
+      try {
+        if (!mapRef.current) {
+          console.warn('MapComponent: Contenedor no disponible');
+          return;
+        }
+
+        // Crear fuente de datos vectoriales para los marcadores
+        const vectorSource = new VectorSource();
+        
+        // Crear capa vectorial para los marcadores
+        const vectorLayer = new VectorLayer({
+          source: vectorSource,
+          style: null // Se definirá más adelante
+        });
+        
+        vectorLayerRef.current = vectorLayer;
+
+        // Crear popup overlay
+        const popupOverlay = new Overlay({
+          element: popupRef.current,
+          positioning: 'bottom-center',
+          stopEvent: false,
+          offset: [0, -10]
+        });
+        
+        popupOverlayRef.current = popupOverlay;
+
+        // Configurar el mapa con controles avanzados
+        const map = new Map({
+          target: mapRef.current,
+          layers: [
+            // Capa base de OpenStreetMap
+            new TileLayer({
+              source: new OSM({
+                attributions: '© OpenStreetMap contributors'
+              })
+            }),
+            // Capa vectorial para marcadores
+            vectorLayer
+          ],
+          view: new View({
+            center: fromLonLat([-84.3880, 33.7490]), // Atlanta, Georgia en coordenadas correctas
+            zoom: 11,
+            minZoom: 3,
+            maxZoom: 19
+          }),
+          controls: defaultControls().extend([
+            new FullScreen(),
+            new ScaleLine({
+              units: 'metric'
+            })
+          ]),
+          overlays: [popupOverlay]
+        });
+
+        // Agregar evento de clic para mostrar popups
+        map.on('click', (event) => {
+          const feature = map.forEachFeatureAtPixel(event.pixel, (feature) => feature);
+          
+          if (feature) {
+            const locationData = feature.get('locationData');
+            if (locationData) {
+              setSelectedLocation(locationData);
+              popupOverlay.setPosition(event.coordinate);
+              
+              // Notificar al componente padre sobre la selección
+              if (onLocationSelect) {
+                onLocationSelect(locationData.id);
+              }
+            }
+          } else {
+            // Cerrar popup si se hace clic fuera de un marcador
+            setSelectedLocation(null);
+            popupOverlay.setPosition(undefined);
+          }
+        });
+
+        // Cambiar cursor al pasar sobre marcadores
+        map.on('pointermove', (event) => {
+          const pixel = map.getEventPixel(event.originalEvent);
+          const hit = map.hasFeatureAtPixel(pixel);
+          map.getTarget().style.cursor = hit ? 'pointer' : '';
+        });
+
+        mapInstanceRef.current = map;
+        setIsMapReady(true);
+        console.log('MapComponent: Mapa inicializado exitosamente');
+
+      } catch (error) {
+        console.error('MapComponent: Error al inicializar mapa:', error);
+      }
+    };
+
+    initializeMap();
+
+    // Cleanup al desmontar el componente
+    return () => {
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.setTarget(null);
+        mapInstanceRef.current = null;
+      }
+    };
+  }, []); // Empty dependency array para ejecutar solo una vez
+
+  // Efecto para actualizar marcadores cuando cambien las ubicaciones
+  useEffect(() => {
+    if (isMapReady && vectorLayerRef.current && locations.length > 0) {
+      const vectorSource = vectorLayerRef.current.getSource();
+      
+      // Limpiar marcadores existentes
+      vectorSource.clear();
+      
+      console.log(`Procesando ${locations.length} ubicaciones para el mapa...`);
+      
+      // Agregar nuevos marcadores
+      const features = [];
+      let coordinatesFound = 0;
+      
+      locations.forEach((location) => {
+        // Intentar obtener coordenadas de la URL de Google Maps si existe
+        let coordinates = null;
+        
+        if (location.googleMapsUrl) {
+          coordinates = extractCoordinatesFromGoogleMaps(location.googleMapsUrl);
+        }
+        
+        // Si no se pudieron extraer coordenadas, intentar geocodificación simple
+        if (!coordinates && location.address) {
+          coordinates = geocodeAddress(location.address, location.city);
+        }
+        
+        if (coordinates) {
+          coordinatesFound++;
+          
+          // Crear feature con la ubicación
+          const feature = new Feature({
+            geometry: new Point(fromLonLat(coordinates)),
+            locationData: location
+          });
+          
+          // Aplicar estilo según tipo de servicio
+          const markerColor = getServiceTypeColor(location.serviceType);
+          feature.setStyle(createMarkerStyle(markerColor));
+          
+          features.push(feature);
+        }
+      });
+      
+      // Agregar features al mapa
+      vectorSource.addFeatures(features);
+      
+      console.log(`Agregados ${coordinatesFound} marcadores de ${locations.length} ubicaciones`);
+      
+      // Ajustar vista para mostrar todos los marcadores
+      if (features.length > 0) {
+        const extent = vectorSource.getExtent();
+        const view = mapInstanceRef.current.getView();
+        
+        // Pequeño delay para asegurar que el mapa esté listo
+        setTimeout(() => {
+          view.fit(extent, {
+            padding: [50, 50, 50, 50],
+            maxZoom: 15,
+            duration: 1000
+          });
+        }, 100);
+      }
+    }
+  }, [locations, isMapReady]);
+
+  // Funciones para los controles del mapa
+  const handleZoomIn = () => {
+    if (mapInstanceRef.current) {
+      const view = mapInstanceRef.current.getView();
+      const currentZoom = view.getZoom();
+      view.animate({ zoom: currentZoom + 1, duration: 300 });
+    }
+  };
+
+  const handleZoomOut = () => {
+    if (mapInstanceRef.current) {
+      const view = mapInstanceRef.current.getView();
+      const currentZoom = view.getZoom();
+      view.animate({ zoom: currentZoom - 1, duration: 300 });
+    }
+  };
+
+  const handleResetView = () => {
+    if (mapInstanceRef.current) {
+      const view = mapInstanceRef.current.getView();
+      view.animate({
+        center: fromLonLat([-84.3880, 33.7490]), // Atlanta, Georgia
+        zoom: 11,
+        duration: 500
+      });
+    }
+  };
+
+  // Función para obtener color por tipo de servicio
+  const getServiceTypeColor = (serviceType) => {
+    const colors = {
+      medical: '#EF4444',      // Rojo para servicios médicos
+      dental: '#3B82F6',       // Azul para servicios dentales
+      vision: '#8B5CF6',       // Púrpura para cuidado visual
+      mental_health: '#10B981', // Verde para salud mental
+      pharmacy: '#F59E0B',     // Naranja para farmacia
+      other: '#6B7280'         // Gris para otros
+    };
+    
+    return colors[serviceType] || colors.other;
+  };
+
+  return (
+    <div className="relative">
+      <div 
+        ref={mapRef} 
+        className="w-full rounded-lg shadow-lg border border-gray-200"
+        style={{ height: '500px', minHeight: '500px' }}
+      />
+      
+      {/* Popup para información de ubicaciones */}
+      <div ref={popupRef} className="ol-popup">
+        {selectedLocation && (
+          <div className="bg-white rounded-lg shadow-xl border border-gray-200 p-4 max-w-sm">
+            <button
+              onClick={() => {
+                setSelectedLocation(null);
+                popupOverlayRef.current?.setPosition(undefined);
+              }}
+              className="absolute top-2 right-2 text-gray-400 hover:text-gray-600"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+            
+            <div className="mb-2">
+              <h3 className="font-semibold text-gray-900 text-sm">{selectedLocation.name}</h3>
+              <p className="text-xs text-gray-600 mt-1">{selectedLocation.address}</p>
+            </div>
+            
+            <div className="space-y-1 text-xs">
+              {selectedLocation.phone && (
+                <div className="flex items-center gap-1 text-blue-600">
+                  <span>📞</span>
+                  <span>{selectedLocation.phone}</span>
+                </div>
+              )}
+              
+              {selectedLocation.languages && selectedLocation.languages.length > 0 && (
+                <div className="flex items-center gap-1 text-gray-600">
+                  <span>🗣️</span>
+                  <span>{selectedLocation.languages.join(', ')}</span>
+                </div>
+              )}
+              
+              {selectedLocation.paymentMethods && selectedLocation.paymentMethods.length > 0 && (
+                <div className="flex items-center gap-1 text-green-600">
+                  <span>💳</span>
+                  <span>{selectedLocation.paymentMethods.slice(0, 2).join(', ')}</span>
+                  {selectedLocation.paymentMethods.length > 2 && <span>...</span>}
+                </div>
+              )}
+            </div>
+            
+            {selectedLocation.website && (
+              <div className="mt-2 pt-2 border-t border-gray-200">
+                <a
+                  href={selectedLocation.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-blue-600 hover:text-blue-800"
+                >
+                  Visitar sitio web →
+                </a>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+      
+      {/* Controles personalizados del mapa */}
+      <MapControls
+        onZoomIn={handleZoomIn}
+        onZoomOut={handleZoomOut}
+        onResetView={handleResetView}
+        isLoading={!isMapReady}
+      />
+
+      {/* Indicador de carga */}
+      {!isMapReady && (
+        <div className="absolute inset-0 flex items-center justify-center bg-gray-100 rounded-lg">
+          <div className="text-center">
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto mb-2"></div>
+            <p className="text-gray-600">Cargando mapa...</p>
+          </div>
+        </div>
+      )}
+
+      {/* Información del mapa */}
+      <div className="absolute bottom-4 left-4 bg-white rounded-lg shadow-lg border border-gray-200 px-3 py-2 text-sm text-gray-600">
+        <div className="flex items-center gap-2">
+          <div className={`w-2 h-2 rounded-full ${isLoading ? 'bg-yellow-500' : 'bg-green-500'}`}></div>
+          <span>OpenStreetMap</span>
+          {locations.length > 0 && (
+            <>
+              <span>•</span>
+              <span>{locations.length} ubicaciones</span>
+            </>
+          )}
+          {isLoading && (
+            <>
+              <span>•</span>
+              <span>Cargando...</span>
+            </>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default MapComponent;

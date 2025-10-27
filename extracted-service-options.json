@@ -1,0 +1,3473 @@
+{
+  "services": [
+    "*For patients under 2 years old",
+    "ABIs (Ankle Brachial Index)",
+    "Abortion services/referrals",
+    "Adult Immunizations",
+    "Adult Medicine",
+    "Adult Services",
+    "Allergy & Asthma",
+    "Allergy Testing",
+    "Alzheimer’s Disease",
+    "Annual Examinations",
+    "Anxiety",
+    "Arthritis",
+    "Arthritis Care",
+    "Attention Deficit Disorder",
+    "Bariatric Weight Loss",
+    "Behavioral Health",
+    "Bipolar Disorder",
+    "Birth control/emergency contraception",
+    "Blood pressure tracker (Machines free of cost for patients with hypertension",
+    "Bone Density/Osteoporosis Treatment",
+    "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store",
+    "Breast Cancer surgery & reconstruction",
+    "Breast Procedures",
+    "COVID-19 PCR Testing",
+    "COVID-19 Rapid Antigen Testing",
+    "COVID-19 Resources",
+    "COVID-19 Testing for symptomatic patients (not travel)",
+    "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up)",
+    "Cancer",
+    "Cancer Screenings",
+    "Cardiac Imaging & Testing",
+    "Child & Adolescent Behavior Disorders",
+    "Child Immunizations",
+    "Child/Teen Therapy",
+    "Children 1st",
+    "Children Health Check Exams",
+    "Children’s Dentistry",
+    "Chronic Disease Management (appointment only)",
+    "Cold & Flu",
+    "Communicable Diseases",
+    "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office",
+    "Compassionate Care in 60-plus Pediatric Specialties",
+    "Complicated Pregnancy",
+    "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care",
+    "Cosmetic Botox",
+    "Cosmetic Dentistry",
+    "Cosmetic Procedures",
+    "Covid-19 Testing",
+    "DNA/Lab Tests",
+    "Dementia",
+    "Dental Care",
+    "Dental Care (Adult & Pediatric)",
+    "Dental care",
+    "Dermatology",
+    "Diabetes",
+    "Diabetes Education",
+    "Diabetes Management in Pregnancy",
+    "Diagnostic Testing / Radiology",
+    "Disease Testing and Counseling",
+    "EKGs",
+    "Ear Lavage. Adolescent Care",
+    "Education/Concern Visits",
+    "Educational Services",
+    "Emergency & Unplanned Care",
+    "Emphysema",
+    "Endometriosis",
+    "Endoscopy",
+    "Environmental Health Services",
+    "Eye Exams",
+    "Eye exams",
+    "Family Care",
+    "Family Issues",
+    "Family Medicine",
+    "Family Medicine (Women's Health",
+    "Family Planning",
+    "Family Planning & Birth Control",
+    "Family Planning/GYN",
+    "Family Therapy",
+    "GYN Surgery",
+    "General Dentistry",
+    "General Medical Services",
+    "General Practice (Smoking Cessation",
+    "General healthcare",
+    "General surgery procedures",
+    "Genetic Counseling",
+    "Geriatric Care",
+    "Geriatrics",
+    "Grief",
+    "Gynecology",
+    "HIV Services",
+    "Health Education & Nutrition Counseling",
+    "Health maintenance during pregnancy",
+    "Heart & Vascular",
+    "Heart Disease",
+    "Hemorrhoidectomies",
+    "Hernia Repairs",
+    "High Risk Obstetric Care and Consults",
+    "High risk pregnancy care",
+    "High-Risk Pregnancy",
+    "Holter monitors",
+    "Home Health",
+    "Hospice",
+    "Hypertension",
+    "Imaging/Radiology",
+    "Immunizations",
+    "In Vitro Fertilization",
+    "Individual Therapy",
+    "Infants",
+    "Infertility",
+    "Inpatient Consultation and Care",
+    "Kidney Disease",
+    "LGBTQ Issues",
+    "Lab & X-Ray",
+    "Lab Testing",
+    "Laboratory Services",
+    "Laboratory Testing",
+    "Labs",
+    "Labs)",
+    "Lacerations & Sutures",
+    "Laparoscopic cholecystectomies",
+    "Long Term Care",
+    "Lung Function Tests",
+    "Mammograms/Services for Women over 40",
+    "Mammography",
+    "Management of Multiple Gestations (twins or more)",
+    "Marriage/Couples Therapy",
+    "Medical Services - Income based - Family Health Services",
+    "Medical Weight Loss",
+    "Medication Assistance",
+    "Medication Assisted Recovery",
+    "Medication Assisted Treatment",
+    "Medication Assisted Treatment for Opiod Addiction",
+    "Medication Management",
+    "Men/Women's services",
+    "Mental Health (thru partnership with Salveo Integrative Health)",
+    "Mental Health Counseling",
+    "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties",
+    "Mental Health Counseling - Providing individual",
+    "Mental Health)",
+    "Men’s Health",
+    "Minor Illness & Injury",
+    "Mole Biopsy and Excisions",
+    "Morbidly Obese Patients",
+    "Nephrology",
+    "Nephrology Testing",
+    "Neurosciences",
+    "Newborn care to geriatrics",
+    "No baby delivery",
+    "Non-emergency primary care",
+    "OBGYN",
+    "Obstetrics",
+    "Obstetrics & Gynecology",
+    "Obstetrics: Midwifery care",
+    "Occupational Health",
+    "Occupational Medicine",
+    "Offer support meetings and coaching sessions. Provides recourse options for treatment",
+    "On-Site Labs",
+    "Online Therapy",
+    "Operative Gynecology",
+    "Oral Surgery",
+    "Orthopedics",
+    "Pain Management",
+    "Pain Medicine",
+    "Palliative Care",
+    "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday",
+    "Pediatric Care: Immunizations",
+    "Pediatric Health",
+    "Pediatrics/Adolescent Care",
+    "Pelvic Pain",
+    "Pharmacy",
+    "Pharmacy Delivery to Office",
+    "Pilonidal cystectomies",
+    "Podiatry",
+    "Podiatry (Adult & Pediatric)",
+    "PrEP for HIV Prevention",
+    "Pre and post menopause",
+    "Pre-Conception Counseling",
+    "Pregnancy and Prenatal Related Services",
+    "Pregnancy testing & services",
+    "Prematurity Testing",
+    "Preventative Health",
+    "Primary Care",
+    "Providing Advanced",
+    "Psychiatry",
+    "Psychosis",
+    "Pulmonary Rehabilitation",
+    "Quantiferon Testing",
+    "Refugee Health",
+    "Rehabilitation",
+    "Routine prenatal care. Gynecological Services: Family Planning",
+    "Routine/Well woman Care",
+    "STD Testing",
+    "STD Testing/Treatment",
+    "STD/STI Testing",
+    "Salveo psychiatrists provide treatment for Depression",
+    "School Screenings",
+    "Senior assisted living/memory care",
+    "Services for those with intellectual and developmental disabilities",
+    "Services provided at all locations include: blood work",
+    "Services: Advanced Maternal Age",
+    "Sexual Health",
+    "Sick Care Visits",
+    "Sleep Disorders Center",
+    "Soft tissue excisions",
+    "Sports Physicals",
+    "Substance Abuse",
+    "Substance Abuse Treatment",
+    "Surgery",
+    "TB Testing",
+    "TB Testing and Treatment",
+    "Teen Services",
+    "Transgender hormone therapy",
+    "Trauma",
+    "Travel & Adult Immunizations",
+    "Travel Immunizations",
+    "Treatment and Follow-up",
+    "Ultrasound",
+    "Ultrasound Services",
+    "Urgent Care",
+    "Urgent Care & Primary Care. We take care of non-emergency injuries",
+    "Uterine Fibroids",
+    "Utero-vaginal Prolapse",
+    "Vision Care",
+    "Vision care",
+    "Wednesday and Friday afternoons Vaccines",
+    "Weight Management",
+    "Well Child Checks",
+    "Wellness Check-ups",
+    "Wellness Plans",
+    "Women",
+    "Women & Children",
+    "Women's Health",
+    "Women’s Health",
+    "Wound Healing Center",
+    "X-rays",
+    "acute care",
+    "along with some big items",
+    "and Children (WIC)",
+    "and acute services",
+    "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure",
+    "and general health care",
+    "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals",
+    "and implants",
+    "and many other behavioral health concerns",
+    "and pain management",
+    "and the LGBTQ+ and Hispanic communities",
+    "and women's health. The clinic is unable to manage conditions such as common colds",
+    "as recommended by the Centers for Disease Control and Prevention",
+    "asthma",
+    "both in-person and virtually at our offices across Metro Atlanta. Individual",
+    "cancer",
+    "cardiac",
+    "continued recovery coaching and meeting sites",
+    "couples and family counseling",
+    "crowns",
+    "detox",
+    "ensuring our clients have the resources and support they need",
+    "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations",
+    "fractures and splints",
+    "geriatric care",
+    "high cholesterol",
+    "including families",
+    "including maternity care",
+    "insulin-dependent diabetes",
+    "maternity and cancer services",
+    "mental health and substance abuse disorders. Provides outpatient care as well as community",
+    "non-insulin diabetes",
+    "orthopedic concerns",
+    "pain management",
+    "pap smears",
+    "pharmaceutical",
+    "physical and immigration medical exams",
+    "physicials and medical help with smoke cessation",
+    "please call clinic",
+    "recovery centers",
+    "recovery housing",
+    "specialty",
+    "suturing",
+    "thyroid issues",
+    "tracks via connected app)",
+    "urgent care",
+    "veterans",
+    "weight loss",
+    "which carries basic baby care items",
+    "which includes medical",
+    "which is the main office. Children are still able to receive services at all locations",
+    "workers compensation"
+  ],
+  "serviceOptions": [
+    {
+      "value": "vision_care",
+      "label": "Vision care (15)",
+      "originalName": "Vision care",
+      "count": 15
+    },
+    {
+      "value": "eye_exams",
+      "label": "Eye exams (15)",
+      "originalName": "Eye exams",
+      "count": 15
+    },
+    {
+      "value": "dental_care__adult___pediatric_",
+      "label": "Dental Care (Adult & Pediatric) (5)",
+      "originalName": "Dental Care (Adult & Pediatric)",
+      "count": 5
+    },
+    {
+      "value": "dental_care",
+      "label": "Dental Care (5)",
+      "originalName": "Dental Care",
+      "count": 5
+    },
+    {
+      "value": "urgent_care",
+      "label": "Urgent Care (4)",
+      "originalName": "Urgent Care",
+      "count": 4
+    },
+    {
+      "value": "family_planning",
+      "label": "Family Planning (3)",
+      "originalName": "Family Planning",
+      "count": 3
+    },
+    {
+      "value": "behavioral_health",
+      "label": "Behavioral Health (2)",
+      "originalName": "Behavioral Health",
+      "count": 2
+    },
+    {
+      "value": "diabetes",
+      "label": "Diabetes (2)",
+      "originalName": "Diabetes",
+      "count": 2
+    },
+    {
+      "value": "occupational_medicine",
+      "label": "Occupational Medicine (2)",
+      "originalName": "Occupational Medicine",
+      "count": 2
+    },
+    {
+      "value": "trauma",
+      "label": "Trauma (2)",
+      "originalName": "Trauma",
+      "count": 2
+    },
+    {
+      "value": "pharmacy",
+      "label": "Pharmacy (2)",
+      "originalName": "Pharmacy",
+      "count": 2
+    },
+    {
+      "value": "family_care",
+      "label": "Family Care (2)",
+      "originalName": "Family Care",
+      "count": 2
+    },
+    {
+      "value": "adult_immunizations",
+      "label": "Adult Immunizations (2)",
+      "originalName": "Adult Immunizations",
+      "count": 2
+    },
+    {
+      "value": "hypertension",
+      "label": "Hypertension (2)",
+      "originalName": "Hypertension",
+      "count": 2
+    },
+    {
+      "value": "child_immunizations",
+      "label": "Child Immunizations (2)",
+      "originalName": "Child Immunizations",
+      "count": 2
+    },
+    {
+      "value": "women",
+      "label": "Women (2)",
+      "originalName": "Women",
+      "count": 2
+    },
+    {
+      "value": "infants",
+      "label": "Infants (2)",
+      "originalName": "Infants",
+      "count": 2
+    },
+    {
+      "value": "and_children__wic_",
+      "label": "and Children (WIC) (2)",
+      "originalName": "and Children (WIC)",
+      "count": 2
+    },
+    {
+      "value": "children_health_check_exams",
+      "label": "Children Health Check Exams (2)",
+      "originalName": "Children Health Check Exams",
+      "count": 2
+    },
+    {
+      "value": "children_1st",
+      "label": "Children 1st (2)",
+      "originalName": "Children 1st",
+      "count": 2
+    },
+    {
+      "value": "school_screenings",
+      "label": "School Screenings (2)",
+      "originalName": "School Screenings",
+      "count": 2
+    },
+    {
+      "value": "teen_services",
+      "label": "Teen Services (2)",
+      "originalName": "Teen Services",
+      "count": 2
+    },
+    {
+      "value": "dna_lab_tests",
+      "label": "DNA/Lab Tests (2)",
+      "originalName": "DNA/Lab Tests",
+      "count": 2
+    },
+    {
+      "value": "pregnancy_and_prenatal_related_services",
+      "label": "Pregnancy and Prenatal Related Services (2)",
+      "originalName": "Pregnancy and Prenatal Related Services",
+      "count": 2
+    },
+    {
+      "value": "mammograms_services_for_women_over_40",
+      "label": "Mammograms/Services for Women over 40 (2)",
+      "originalName": "Mammograms/Services for Women over 40",
+      "count": 2
+    },
+    {
+      "value": "cancer_screenings",
+      "label": "Cancer Screenings (2)",
+      "originalName": "Cancer Screenings",
+      "count": 2
+    },
+    {
+      "value": "std_testing",
+      "label": "STD Testing (2)",
+      "originalName": "STD Testing",
+      "count": 2
+    },
+    {
+      "value": "treatment_and_follow_up",
+      "label": "Treatment and Follow-up (2)",
+      "originalName": "Treatment and Follow-up",
+      "count": 2
+    },
+    {
+      "value": "tb_testing_and_treatment",
+      "label": "TB Testing and Treatment (2)",
+      "originalName": "TB Testing and Treatment",
+      "count": 2
+    },
+    {
+      "value": "disease_testing_and_counseling",
+      "label": "Disease Testing and Counseling (2)",
+      "originalName": "Disease Testing and Counseling",
+      "count": 2
+    },
+    {
+      "value": "environmental_health_services",
+      "label": "Environmental Health Services (2)",
+      "originalName": "Environmental Health Services",
+      "count": 2
+    },
+    {
+      "value": "refugee_health",
+      "label": "Refugee Health (2)",
+      "originalName": "Refugee Health",
+      "count": 2
+    },
+    {
+      "value": "prep_for_hiv_prevention",
+      "label": "PrEP for HIV Prevention (2)",
+      "originalName": "PrEP for HIV Prevention",
+      "count": 2
+    },
+    {
+      "value": "general_dentistry",
+      "label": "General Dentistry (2)",
+      "originalName": "General Dentistry",
+      "count": 2
+    },
+    {
+      "value": "infertility",
+      "label": "Infertility (2)",
+      "originalName": "Infertility",
+      "count": 2
+    },
+    {
+      "value": "covid_19_testing",
+      "label": "Covid-19 Testing (2)",
+      "originalName": "Covid-19 Testing",
+      "count": 2
+    },
+    {
+      "value": "x_rays",
+      "label": "X-rays (2)",
+      "originalName": "X-rays",
+      "count": 2
+    },
+    {
+      "value": "bariatric_weight_loss",
+      "label": "Bariatric Weight Loss (1)",
+      "originalName": "Bariatric Weight Loss",
+      "count": 1
+    },
+    {
+      "value": "cancer",
+      "label": "Cancer (1)",
+      "originalName": "Cancer",
+      "count": 1
+    },
+    {
+      "value": "emergency___unplanned_care",
+      "label": "Emergency & Unplanned Care (1)",
+      "originalName": "Emergency & Unplanned Care",
+      "count": 1
+    },
+    {
+      "value": "endoscopy",
+      "label": "Endoscopy (1)",
+      "originalName": "Endoscopy",
+      "count": 1
+    },
+    {
+      "value": "heart___vascular",
+      "label": "Heart & Vascular (1)",
+      "originalName": "Heart & Vascular",
+      "count": 1
+    },
+    {
+      "value": "home_health",
+      "label": "Home Health (1)",
+      "originalName": "Home Health",
+      "count": 1
+    },
+    {
+      "value": "hospice",
+      "label": "Hospice (1)",
+      "originalName": "Hospice",
+      "count": 1
+    },
+    {
+      "value": "imaging_radiology",
+      "label": "Imaging/Radiology (1)",
+      "originalName": "Imaging/Radiology",
+      "count": 1
+    },
+    {
+      "value": "laboratory_services",
+      "label": "Laboratory Services (1)",
+      "originalName": "Laboratory Services",
+      "count": 1
+    },
+    {
+      "value": "long_term_care",
+      "label": "Long Term Care (1)",
+      "originalName": "Long Term Care",
+      "count": 1
+    },
+    {
+      "value": "neurosciences",
+      "label": "Neurosciences (1)",
+      "originalName": "Neurosciences",
+      "count": 1
+    },
+    {
+      "value": "orthopedics",
+      "label": "Orthopedics (1)",
+      "originalName": "Orthopedics",
+      "count": 1
+    },
+    {
+      "value": "pain_medicine",
+      "label": "Pain Medicine (1)",
+      "originalName": "Pain Medicine",
+      "count": 1
+    },
+    {
+      "value": "palliative_care",
+      "label": "Palliative Care (1)",
+      "originalName": "Palliative Care",
+      "count": 1
+    },
+    {
+      "value": "pulmonary_rehabilitation",
+      "label": "Pulmonary Rehabilitation (1)",
+      "originalName": "Pulmonary Rehabilitation",
+      "count": 1
+    },
+    {
+      "value": "rehabilitation",
+      "label": "Rehabilitation (1)",
+      "originalName": "Rehabilitation",
+      "count": 1
+    },
+    {
+      "value": "sleep_disorders_center",
+      "label": "Sleep Disorders Center (1)",
+      "originalName": "Sleep Disorders Center",
+      "count": 1
+    },
+    {
+      "value": "substance_abuse_treatment",
+      "label": "Substance Abuse Treatment (1)",
+      "originalName": "Substance Abuse Treatment",
+      "count": 1
+    },
+    {
+      "value": "surgery",
+      "label": "Surgery (1)",
+      "originalName": "Surgery",
+      "count": 1
+    },
+    {
+      "value": "women___children",
+      "label": "Women & Children (1)",
+      "originalName": "Women & Children",
+      "count": 1
+    },
+    {
+      "value": "wound_healing_center",
+      "label": "Wound Healing Center (1)",
+      "originalName": "Wound Healing Center",
+      "count": 1
+    },
+    {
+      "value": "mental_health_counseling___providing_individual",
+      "label": "Mental Health Counseling - Providing individual (1)",
+      "originalName": "Mental Health Counseling - Providing individual",
+      "count": 1
+    },
+    {
+      "value": "couples_and_family_counseling",
+      "label": "couples and family counseling (1)",
+      "originalName": "couples and family counseling",
+      "count": 1
+    },
+    {
+      "value": "senior_assisted_living_memory_care",
+      "label": "Senior assisted living/memory care (1)",
+      "originalName": "Senior assisted living/memory care",
+      "count": 1
+    },
+    {
+      "value": "providing_advanced",
+      "label": "Providing Advanced (1)",
+      "originalName": "Providing Advanced",
+      "count": 1
+    },
+    {
+      "value": "compassionate_care_in_60_plus_pediatric_specialties",
+      "label": "Compassionate Care in 60-plus Pediatric Specialties (1)",
+      "originalName": "Compassionate Care in 60-plus Pediatric Specialties",
+      "count": 1
+    },
+    {
+      "value": "mental_health_counseling___chris_180_offers_a_wide_range_of_therapies_and_counseling_specialties",
+      "label": "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties (1)",
+      "originalName": "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties",
+      "count": 1
+    },
+    {
+      "value": "ensuring_our_clients_have_the_resources_and_support_they_need",
+      "label": "ensuring our clients have the resources and support they need (1)",
+      "originalName": "ensuring our clients have the resources and support they need",
+      "count": 1
+    },
+    {
+      "value": "both_in_person_and_virtually_at_our_offices_across_metro_atlanta__individual",
+      "label": "both in-person and virtually at our offices across Metro Atlanta. Individual (1)",
+      "originalName": "both in-person and virtually at our offices across Metro Atlanta. Individual",
+      "count": 1
+    },
+    {
+      "value": "family_and_group_counseling_is_available_depending_on_clinical_needs__our_diverse_and_inclusive_staff_is_trained_to_serve_a_range_of_populations",
+      "label": "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations (1)",
+      "originalName": "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations",
+      "count": 1
+    },
+    {
+      "value": "including_families",
+      "label": "including families (1)",
+      "originalName": "including families",
+      "count": 1
+    },
+    {
+      "value": "veterans",
+      "label": "veterans (1)",
+      "originalName": "veterans",
+      "count": 1
+    },
+    {
+      "value": "and_the_lgbtq__and_hispanic_communities",
+      "label": "and the LGBTQ+ and Hispanic communities (1)",
+      "originalName": "and the LGBTQ+ and Hispanic communities",
+      "count": 1
+    },
+    {
+      "value": "adult_medicine",
+      "label": "Adult Medicine (1)",
+      "originalName": "Adult Medicine",
+      "count": 1
+    },
+    {
+      "value": "pediatrics_adolescent_care",
+      "label": "Pediatrics/Adolescent Care (1)",
+      "originalName": "Pediatrics/Adolescent Care",
+      "count": 1
+    },
+    {
+      "value": "family_planning_gyn",
+      "label": "Family Planning/GYN (1)",
+      "originalName": "Family Planning/GYN",
+      "count": 1
+    },
+    {
+      "value": "podiatry__adult___pediatric_",
+      "label": "Podiatry (Adult & Pediatric) (1)",
+      "originalName": "Podiatry (Adult & Pediatric)",
+      "count": 1
+    },
+    {
+      "value": "health_education___nutrition_counseling",
+      "label": "Health Education & Nutrition Counseling (1)",
+      "originalName": "Health Education & Nutrition Counseling",
+      "count": 1
+    },
+    {
+      "value": "medication_assisted_treatment",
+      "label": "Medication Assisted Treatment (1)",
+      "originalName": "Medication Assisted Treatment",
+      "count": 1
+    },
+    {
+      "value": "covid_19_vax_and_all_other_vaccinations_at_norcross_location_only__covid_19_vax_for_ages_5_and_up_",
+      "label": "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up) (1)",
+      "originalName": "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up)",
+      "count": 1
+    },
+    {
+      "value": "covid_19_testing_for_symptomatic_patients__not_travel_",
+      "label": "COVID-19 Testing for symptomatic patients (not travel) (1)",
+      "originalName": "COVID-19 Testing for symptomatic patients (not travel)",
+      "count": 1
+    },
+    {
+      "value": "std_sti_testing",
+      "label": "STD/STI Testing (1)",
+      "originalName": "STD/STI Testing",
+      "count": 1
+    },
+    {
+      "value": "tb_testing",
+      "label": "TB Testing (1)",
+      "originalName": "TB Testing",
+      "count": 1
+    },
+    {
+      "value": "nephrology_testing",
+      "label": "Nephrology Testing (1)",
+      "originalName": "Nephrology Testing",
+      "count": 1
+    },
+    {
+      "value": "quantiferon_testing",
+      "label": "Quantiferon Testing (1)",
+      "originalName": "Quantiferon Testing",
+      "count": 1
+    },
+    {
+      "value": "blood_pressure_tracker__machines_free_of_cost_for_patients_with_hypertension",
+      "label": "Blood pressure tracker (Machines free of cost for patients with hypertension (1)",
+      "originalName": "Blood pressure tracker (Machines free of cost for patients with hypertension",
+      "count": 1
+    },
+    {
+      "value": "tracks_via_connected_app_",
+      "label": "tracks via connected app) (1)",
+      "originalName": "tracks via connected app)",
+      "count": 1
+    },
+    {
+      "value": "community_outreach_center_helps_to_connect_vulnerable_populations_with_other_assistance_resources__pediatrician_is_only_available_at_the_norcross_office",
+      "label": "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office (1)",
+      "originalName": "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office",
+      "count": 1
+    },
+    {
+      "value": "which_is_the_main_office__children_are_still_able_to_receive_services_at_all_locations",
+      "label": "which is the main office. Children are still able to receive services at all locations (1)",
+      "originalName": "which is the main office. Children are still able to receive services at all locations",
+      "count": 1
+    },
+    {
+      "value": "primary_care",
+      "label": "Primary Care (1)",
+      "originalName": "Primary Care",
+      "count": 1
+    },
+    {
+      "value": "cardiac_imaging___testing",
+      "label": "Cardiac Imaging & Testing (1)",
+      "originalName": "Cardiac Imaging & Testing",
+      "count": 1
+    },
+    {
+      "value": "diagnostic_testing___radiology",
+      "label": "Diagnostic Testing / Radiology (1)",
+      "originalName": "Diagnostic Testing / Radiology",
+      "count": 1
+    },
+    {
+      "value": "laboratory_testing",
+      "label": "Laboratory Testing (1)",
+      "originalName": "Laboratory Testing",
+      "count": 1
+    },
+    {
+      "value": "podiatry",
+      "label": "Podiatry (1)",
+      "originalName": "Podiatry",
+      "count": 1
+    },
+    {
+      "value": "nephrology",
+      "label": "Nephrology (1)",
+      "originalName": "Nephrology",
+      "count": 1
+    },
+    {
+      "value": "pain_management",
+      "label": "Pain Management (1)",
+      "originalName": "Pain Management",
+      "count": 1
+    },
+    {
+      "value": "men_s_health",
+      "label": "Men’s Health (1)",
+      "originalName": "Men’s Health",
+      "count": 1
+    },
+    {
+      "value": "women_s_health",
+      "label": "Women’s Health (1)",
+      "originalName": "Women’s Health",
+      "count": 1
+    },
+    {
+      "value": "pediatric_health",
+      "label": "Pediatric Health (1)",
+      "originalName": "Pediatric Health",
+      "count": 1
+    },
+    {
+      "value": "geriatric_care",
+      "label": "Geriatric Care (1)",
+      "originalName": "Geriatric Care",
+      "count": 1
+    },
+    {
+      "value": "annual_examinations",
+      "label": "Annual Examinations (1)",
+      "originalName": "Annual Examinations",
+      "count": 1
+    },
+    {
+      "value": "wellness_plans",
+      "label": "Wellness Plans (1)",
+      "originalName": "Wellness Plans",
+      "count": 1
+    },
+    {
+      "value": "women_s_health",
+      "label": "Women's Health (1)",
+      "originalName": "Women's Health",
+      "count": 1
+    },
+    {
+      "value": "weight_management",
+      "label": "Weight Management (1)",
+      "originalName": "Weight Management",
+      "count": 1
+    },
+    {
+      "value": "medication_management",
+      "label": "Medication Management (1)",
+      "originalName": "Medication Management",
+      "count": 1
+    },
+    {
+      "value": "diabetes_education",
+      "label": "Diabetes Education (1)",
+      "originalName": "Diabetes Education",
+      "count": 1
+    },
+    {
+      "value": "geriatrics",
+      "label": "Geriatrics (1)",
+      "originalName": "Geriatrics",
+      "count": 1
+    },
+    {
+      "value": "arthritis_care",
+      "label": "Arthritis Care (1)",
+      "originalName": "Arthritis Care",
+      "count": 1
+    },
+    {
+      "value": "travel___adult_immunizations",
+      "label": "Travel & Adult Immunizations (1)",
+      "originalName": "Travel & Adult Immunizations",
+      "count": 1
+    },
+    {
+      "value": "oral_surgery",
+      "label": "Oral Surgery (1)",
+      "originalName": "Oral Surgery",
+      "count": 1
+    },
+    {
+      "value": "cosmetic_procedures",
+      "label": "Cosmetic Procedures (1)",
+      "originalName": "Cosmetic Procedures",
+      "count": 1
+    },
+    {
+      "value": "obgyn",
+      "label": "OBGYN (1)",
+      "originalName": "OBGYN",
+      "count": 1
+    },
+    {
+      "value": "gyn_surgery",
+      "label": "GYN Surgery (1)",
+      "originalName": "GYN Surgery",
+      "count": 1
+    },
+    {
+      "value": "no_baby_delivery",
+      "label": "No baby delivery (1)",
+      "originalName": "No baby delivery",
+      "count": 1
+    },
+    {
+      "value": "breast_cancer_surgery___reconstruction",
+      "label": "Breast Cancer surgery & reconstruction (1)",
+      "originalName": "Breast Cancer surgery & reconstruction",
+      "count": 1
+    },
+    {
+      "value": "general_surgery_procedures",
+      "label": "General surgery procedures (1)",
+      "originalName": "General surgery procedures",
+      "count": 1
+    },
+    {
+      "value": "vision_care",
+      "label": "Vision Care (1)",
+      "originalName": "Vision Care",
+      "count": 1
+    },
+    {
+      "value": "eye_exams",
+      "label": "Eye Exams (1)",
+      "originalName": "Eye Exams",
+      "count": 1
+    },
+    {
+      "value": "urgent_care___primary_care__we_take_care_of_non_emergency_injuries",
+      "label": "Urgent Care & Primary Care. We take care of non-emergency injuries (1)",
+      "originalName": "Urgent Care & Primary Care. We take care of non-emergency injuries",
+      "count": 1
+    },
+    {
+      "value": "physical_and_immigration_medical_exams",
+      "label": "physical and immigration medical exams (1)",
+      "originalName": "physical and immigration medical exams",
+      "count": 1
+    },
+    {
+      "value": "and_general_health_care",
+      "label": "and general health care (1)",
+      "originalName": "and general health care",
+      "count": 1
+    },
+    {
+      "value": "cosmetic_dentistry",
+      "label": "Cosmetic Dentistry (1)",
+      "originalName": "Cosmetic Dentistry",
+      "count": 1
+    },
+    {
+      "value": "children_s_dentistry",
+      "label": "Children’s Dentistry (1)",
+      "originalName": "Children’s Dentistry",
+      "count": 1
+    },
+    {
+      "value": "mental_health_counseling",
+      "label": "Mental Health Counseling (1)",
+      "originalName": "Mental Health Counseling",
+      "count": 1
+    },
+    {
+      "value": "individual_therapy",
+      "label": "Individual Therapy (1)",
+      "originalName": "Individual Therapy",
+      "count": 1
+    },
+    {
+      "value": "marriage_couples_therapy",
+      "label": "Marriage/Couples Therapy (1)",
+      "originalName": "Marriage/Couples Therapy",
+      "count": 1
+    },
+    {
+      "value": "family_therapy",
+      "label": "Family Therapy (1)",
+      "originalName": "Family Therapy",
+      "count": 1
+    },
+    {
+      "value": "child_teen_therapy",
+      "label": "Child/Teen Therapy (1)",
+      "originalName": "Child/Teen Therapy",
+      "count": 1
+    },
+    {
+      "value": "online_therapy",
+      "label": "Online Therapy (1)",
+      "originalName": "Online Therapy",
+      "count": 1
+    },
+    {
+      "value": "pediatric_care_from_birth_to_16_yrs__annual_wellness_check_ups_newborn_examinations_and_physicals_sick_visits_on_monday",
+      "label": "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday (1)",
+      "originalName": "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday",
+      "count": 1
+    },
+    {
+      "value": "wednesday_and_friday_afternoons_vaccines",
+      "label": "Wednesday and Friday afternoons Vaccines (1)",
+      "originalName": "Wednesday and Friday afternoons Vaccines",
+      "count": 1
+    },
+    {
+      "value": "as_recommended_by_the_centers_for_disease_control_and_prevention",
+      "label": "as recommended by the Centers for Disease Control and Prevention (1)",
+      "originalName": "as recommended by the Centers for Disease Control and Prevention",
+      "count": 1
+    },
+    {
+      "value": "services__advanced_maternal_age",
+      "label": "Services: Advanced Maternal Age (1)",
+      "originalName": "Services: Advanced Maternal Age",
+      "count": 1
+    },
+    {
+      "value": "complicated_pregnancy",
+      "label": "Complicated Pregnancy (1)",
+      "originalName": "Complicated Pregnancy",
+      "count": 1
+    },
+    {
+      "value": "diabetes_management_in_pregnancy",
+      "label": "Diabetes Management in Pregnancy (1)",
+      "originalName": "Diabetes Management in Pregnancy",
+      "count": 1
+    },
+    {
+      "value": "genetic_counseling",
+      "label": "Genetic Counseling (1)",
+      "originalName": "Genetic Counseling",
+      "count": 1
+    },
+    {
+      "value": "heart_disease",
+      "label": "Heart Disease (1)",
+      "originalName": "Heart Disease",
+      "count": 1
+    },
+    {
+      "value": "high_risk_obstetric_care_and_consults",
+      "label": "High Risk Obstetric Care and Consults (1)",
+      "originalName": "High Risk Obstetric Care and Consults",
+      "count": 1
+    },
+    {
+      "value": "high_risk_pregnancy",
+      "label": "High-Risk Pregnancy (1)",
+      "originalName": "High-Risk Pregnancy",
+      "count": 1
+    },
+    {
+      "value": "in_vitro_fertilization",
+      "label": "In Vitro Fertilization (1)",
+      "originalName": "In Vitro Fertilization",
+      "count": 1
+    },
+    {
+      "value": "inpatient_consultation_and_care",
+      "label": "Inpatient Consultation and Care (1)",
+      "originalName": "Inpatient Consultation and Care",
+      "count": 1
+    },
+    {
+      "value": "kidney_disease",
+      "label": "Kidney Disease (1)",
+      "originalName": "Kidney Disease",
+      "count": 1
+    },
+    {
+      "value": "management_of_multiple_gestations__twins_or_more_",
+      "label": "Management of Multiple Gestations (twins or more) (1)",
+      "originalName": "Management of Multiple Gestations (twins or more)",
+      "count": 1
+    },
+    {
+      "value": "morbidly_obese_patients",
+      "label": "Morbidly Obese Patients (1)",
+      "originalName": "Morbidly Obese Patients",
+      "count": 1
+    },
+    {
+      "value": "pre_conception_counseling",
+      "label": "Pre-Conception Counseling (1)",
+      "originalName": "Pre-Conception Counseling",
+      "count": 1
+    },
+    {
+      "value": "prematurity_testing",
+      "label": "Prematurity Testing (1)",
+      "originalName": "Prematurity Testing",
+      "count": 1
+    },
+    {
+      "value": "medical_services___income_based___family_health_services",
+      "label": "Medical Services - Income based - Family Health Services (1)",
+      "originalName": "Medical Services - Income based - Family Health Services",
+      "count": 1
+    },
+    {
+      "value": "educational_services",
+      "label": "Educational Services (1)",
+      "originalName": "Educational Services",
+      "count": 1
+    },
+    {
+      "value": "family_planning___birth_control",
+      "label": "Family Planning & Birth Control (1)",
+      "originalName": "Family Planning & Birth Control",
+      "count": 1
+    },
+    {
+      "value": "medication_assisted_recovery",
+      "label": "Medication Assisted Recovery (1)",
+      "originalName": "Medication Assisted Recovery",
+      "count": 1
+    },
+    {
+      "value": "occupational_health",
+      "label": "Occupational Health (1)",
+      "originalName": "Occupational Health",
+      "count": 1
+    },
+    {
+      "value": "sexual_health",
+      "label": "Sexual Health (1)",
+      "originalName": "Sexual Health",
+      "count": 1
+    },
+    {
+      "value": "well_child_checks",
+      "label": "Well Child Checks (1)",
+      "originalName": "Well Child Checks",
+      "count": 1
+    },
+    {
+      "value": "pharmacy_delivery_to_office",
+      "label": "Pharmacy Delivery to Office (1)",
+      "originalName": "Pharmacy Delivery to Office",
+      "count": 1
+    },
+    {
+      "value": "offer_support_meetings_and_coaching_sessions__provides_recourse_options_for_treatment",
+      "label": "Offer support meetings and coaching sessions. Provides recourse options for treatment (1)",
+      "originalName": "Offer support meetings and coaching sessions. Provides recourse options for treatment",
+      "count": 1
+    },
+    {
+      "value": "detox",
+      "label": "detox (1)",
+      "originalName": "detox",
+      "count": 1
+    },
+    {
+      "value": "recovery_housing",
+      "label": "recovery housing (1)",
+      "originalName": "recovery housing",
+      "count": 1
+    },
+    {
+      "value": "recovery_centers",
+      "label": "recovery centers (1)",
+      "originalName": "recovery centers",
+      "count": 1
+    },
+    {
+      "value": "continued_recovery_coaching_and_meeting_sites",
+      "label": "continued recovery coaching and meeting sites (1)",
+      "originalName": "continued recovery coaching and meeting sites",
+      "count": 1
+    },
+    {
+      "value": "obstetrics___gynecology",
+      "label": "Obstetrics & Gynecology (1)",
+      "originalName": "Obstetrics & Gynecology",
+      "count": 1
+    },
+    {
+      "value": "family_medicine",
+      "label": "Family Medicine (1)",
+      "originalName": "Family Medicine",
+      "count": 1
+    },
+    {
+      "value": "obstetrics__midwifery_care",
+      "label": "Obstetrics: Midwifery care (1)",
+      "originalName": "Obstetrics: Midwifery care",
+      "count": 1
+    },
+    {
+      "value": "health_maintenance_during_pregnancy",
+      "label": "Health maintenance during pregnancy (1)",
+      "originalName": "Health maintenance during pregnancy",
+      "count": 1
+    },
+    {
+      "value": "high_risk_pregnancy_care",
+      "label": "High risk pregnancy care (1)",
+      "originalName": "High risk pregnancy care",
+      "count": 1
+    },
+    {
+      "value": "routine_prenatal_care__gynecological_services__family_planning",
+      "label": "Routine prenatal care. Gynecological Services: Family Planning (1)",
+      "originalName": "Routine prenatal care. Gynecological Services: Family Planning",
+      "count": 1
+    },
+    {
+      "value": "operative_gynecology",
+      "label": "Operative Gynecology (1)",
+      "originalName": "Operative Gynecology",
+      "count": 1
+    },
+    {
+      "value": "pelvic_pain",
+      "label": "Pelvic Pain (1)",
+      "originalName": "Pelvic Pain",
+      "count": 1
+    },
+    {
+      "value": "endometriosis",
+      "label": "Endometriosis (1)",
+      "originalName": "Endometriosis",
+      "count": 1
+    },
+    {
+      "value": "pre_and_post_menopause",
+      "label": "Pre and post menopause (1)",
+      "originalName": "Pre and post menopause",
+      "count": 1
+    },
+    {
+      "value": "routine_well_woman_care",
+      "label": "Routine/Well woman Care (1)",
+      "originalName": "Routine/Well woman Care",
+      "count": 1
+    },
+    {
+      "value": "uterine_fibroids",
+      "label": "Uterine Fibroids (1)",
+      "originalName": "Uterine Fibroids",
+      "count": 1
+    },
+    {
+      "value": "utero_vaginal_prolapse",
+      "label": "Utero-vaginal Prolapse (1)",
+      "originalName": "Utero-vaginal Prolapse",
+      "count": 1
+    },
+    {
+      "value": "comprehensive_inpatient_and_outpatient_services_as_well_as_24_hour_emergency_and_trauma_care",
+      "label": "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care (1)",
+      "originalName": "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care",
+      "count": 1
+    },
+    {
+      "value": "cardiac",
+      "label": "cardiac (1)",
+      "originalName": "cardiac",
+      "count": 1
+    },
+    {
+      "value": "maternity_and_cancer_services",
+      "label": "maternity and cancer services (1)",
+      "originalName": "maternity and cancer services",
+      "count": 1
+    },
+    {
+      "value": "breast___cervical_cancer_screening__free_hiv_aids_testing___referral__teen_pregnancy_coaching___information_about_georgia_s_reproductive_law__men_s_health_support_services__free_std___sti_testing___optimal_health_coaching__pregnancy_tests__reproductive_loss_advice___guidance__std_sti_testing_and_treatment__prenatal_care__ultrasounds__well_woman_care__abortion_pill_reversal__adoptive_services_referrals_and_guidance__obria_can_write_orders_for_mammograms_at_northside_hospital_gwinnett__patients_earn_points_and_can_spend_them_at_obria_s_baby_store",
+      "label": "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store (1)",
+      "originalName": "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store",
+      "count": 1
+    },
+    {
+      "value": "which_carries_basic_baby_care_items",
+      "label": "which carries basic baby care items (1)",
+      "originalName": "which carries basic baby care items",
+      "count": 1
+    },
+    {
+      "value": "along_with_some_big_items",
+      "label": "along with some big items (1)",
+      "originalName": "along with some big items",
+      "count": 1
+    },
+    {
+      "value": "minor_illness___injury",
+      "label": "Minor Illness & Injury (1)",
+      "originalName": "Minor Illness & Injury",
+      "count": 1
+    },
+    {
+      "value": "covid_19_pcr_testing",
+      "label": "COVID-19 PCR Testing (1)",
+      "originalName": "COVID-19 PCR Testing",
+      "count": 1
+    },
+    {
+      "value": "covid_19_rapid_antigen_testing",
+      "label": "COVID-19 Rapid Antigen Testing (1)",
+      "originalName": "COVID-19 Rapid Antigen Testing",
+      "count": 1
+    },
+    {
+      "value": "sports_physicals",
+      "label": "Sports Physicals (1)",
+      "originalName": "Sports Physicals",
+      "count": 1
+    },
+    {
+      "value": "on_site_labs",
+      "label": "On-Site Labs (1)",
+      "originalName": "On-Site Labs",
+      "count": 1
+    },
+    {
+      "value": "_for_patients_under_2_years_old",
+      "label": "*For patients under 2 years old (1)",
+      "originalName": "*For patients under 2 years old",
+      "count": 1
+    },
+    {
+      "value": "please_call_clinic",
+      "label": "please call clinic (1)",
+      "originalName": "please call clinic",
+      "count": 1
+    },
+    {
+      "value": "abortion_services_referrals",
+      "label": "Abortion services/referrals (1)",
+      "originalName": "Abortion services/referrals",
+      "count": 1
+    },
+    {
+      "value": "birth_control_emergency_contraception",
+      "label": "Birth control/emergency contraception (1)",
+      "originalName": "Birth control/emergency contraception",
+      "count": 1
+    },
+    {
+      "value": "general_healthcare",
+      "label": "General healthcare (1)",
+      "originalName": "General healthcare",
+      "count": 1
+    },
+    {
+      "value": "hiv_services",
+      "label": "HIV Services (1)",
+      "originalName": "HIV Services",
+      "count": 1
+    },
+    {
+      "value": "std_testing_treatment",
+      "label": "STD Testing/Treatment (1)",
+      "originalName": "STD Testing/Treatment",
+      "count": 1
+    },
+    {
+      "value": "men_women_s_services",
+      "label": "Men/Women's services (1)",
+      "originalName": "Men/Women's services",
+      "count": 1
+    },
+    {
+      "value": "transgender_hormone_therapy",
+      "label": "Transgender hormone therapy (1)",
+      "originalName": "Transgender hormone therapy",
+      "count": 1
+    },
+    {
+      "value": "pregnancy_testing___services",
+      "label": "Pregnancy testing & services (1)",
+      "originalName": "Pregnancy testing & services",
+      "count": 1
+    },
+    {
+      "value": "travel_immunizations",
+      "label": "Travel Immunizations (1)",
+      "originalName": "Travel Immunizations",
+      "count": 1
+    },
+    {
+      "value": "services_provided_at_all_locations_include__blood_work",
+      "label": "Services provided at all locations include: blood work (1)",
+      "originalName": "Services provided at all locations include: blood work",
+      "count": 1
+    },
+    {
+      "value": "abis__ankle_brachial_index_",
+      "label": "ABIs (Ankle Brachial Index) (1)",
+      "originalName": "ABIs (Ankle Brachial Index)",
+      "count": 1
+    },
+    {
+      "value": "ekgs",
+      "label": "EKGs (1)",
+      "originalName": "EKGs",
+      "count": 1
+    },
+    {
+      "value": "geriatric_care",
+      "label": "geriatric care (1)",
+      "originalName": "geriatric care",
+      "count": 1
+    },
+    {
+      "value": "holter_monitors",
+      "label": "Holter monitors (1)",
+      "originalName": "Holter monitors",
+      "count": 1
+    },
+    {
+      "value": "lung_function_tests",
+      "label": "Lung Function Tests (1)",
+      "originalName": "Lung Function Tests",
+      "count": 1
+    },
+    {
+      "value": "pain_management",
+      "label": "pain management (1)",
+      "originalName": "pain management",
+      "count": 1
+    },
+    {
+      "value": "pap_smears",
+      "label": "pap smears (1)",
+      "originalName": "pap smears",
+      "count": 1
+    },
+    {
+      "value": "suturing",
+      "label": "suturing (1)",
+      "originalName": "suturing",
+      "count": 1
+    },
+    {
+      "value": "urgent_care",
+      "label": "urgent care (1)",
+      "originalName": "urgent care",
+      "count": 1
+    },
+    {
+      "value": "acute_care",
+      "label": "acute care (1)",
+      "originalName": "acute care",
+      "count": 1
+    },
+    {
+      "value": "physicials_and_medical_help_with_smoke_cessation",
+      "label": "physicials and medical help with smoke cessation (1)",
+      "originalName": "physicials and medical help with smoke cessation",
+      "count": 1
+    },
+    {
+      "value": "fractures_and_splints",
+      "label": "fractures and splints (1)",
+      "originalName": "fractures and splints",
+      "count": 1
+    },
+    {
+      "value": "weight_loss",
+      "label": "weight loss (1)",
+      "originalName": "weight loss",
+      "count": 1
+    },
+    {
+      "value": "workers_compensation",
+      "label": "workers compensation (1)",
+      "originalName": "workers compensation",
+      "count": 1
+    },
+    {
+      "value": "and_pain_management",
+      "label": "and pain management (1)",
+      "originalName": "and pain management",
+      "count": 1
+    },
+    {
+      "value": "general_practice__smoking_cessation",
+      "label": "General Practice (Smoking Cessation (1)",
+      "originalName": "General Practice (Smoking Cessation",
+      "count": 1
+    },
+    {
+      "value": "emphysema",
+      "label": "Emphysema (1)",
+      "originalName": "Emphysema",
+      "count": 1
+    },
+    {
+      "value": "arthritis",
+      "label": "Arthritis (1)",
+      "originalName": "Arthritis",
+      "count": 1
+    },
+    {
+      "value": "mole_biopsy_and_excisions",
+      "label": "Mole Biopsy and Excisions (1)",
+      "originalName": "Mole Biopsy and Excisions",
+      "count": 1
+    },
+    {
+      "value": "lacerations___sutures",
+      "label": "Lacerations & Sutures (1)",
+      "originalName": "Lacerations & Sutures",
+      "count": 1
+    },
+    {
+      "value": "bone_density_osteoporosis_treatment",
+      "label": "Bone Density/Osteoporosis Treatment (1)",
+      "originalName": "Bone Density/Osteoporosis Treatment",
+      "count": 1
+    },
+    {
+      "value": "mental_health_",
+      "label": "Mental Health) (1)",
+      "originalName": "Mental Health)",
+      "count": 1
+    },
+    {
+      "value": "family_medicine__women_s_health",
+      "label": "Family Medicine (Women's Health (1)",
+      "originalName": "Family Medicine (Women's Health",
+      "count": 1
+    },
+    {
+      "value": "preventative_health",
+      "label": "Preventative Health (1)",
+      "originalName": "Preventative Health",
+      "count": 1
+    },
+    {
+      "value": "communicable_diseases",
+      "label": "Communicable Diseases (1)",
+      "originalName": "Communicable Diseases",
+      "count": 1
+    },
+    {
+      "value": "immunizations",
+      "label": "Immunizations (1)",
+      "originalName": "Immunizations",
+      "count": 1
+    },
+    {
+      "value": "allergy_testing",
+      "label": "Allergy Testing (1)",
+      "originalName": "Allergy Testing",
+      "count": 1
+    },
+    {
+      "value": "cold___flu",
+      "label": "Cold & Flu (1)",
+      "originalName": "Cold & Flu",
+      "count": 1
+    },
+    {
+      "value": "labs_",
+      "label": "Labs) (1)",
+      "originalName": "Labs)",
+      "count": 1
+    },
+    {
+      "value": "medical_weight_loss",
+      "label": "Medical Weight Loss (1)",
+      "originalName": "Medical Weight Loss",
+      "count": 1
+    },
+    {
+      "value": "covid_19_resources",
+      "label": "COVID-19 Resources (1)",
+      "originalName": "COVID-19 Resources",
+      "count": 1
+    },
+    {
+      "value": "hernia_repairs",
+      "label": "Hernia Repairs (1)",
+      "originalName": "Hernia Repairs",
+      "count": 1
+    },
+    {
+      "value": "breast_procedures",
+      "label": "Breast Procedures (1)",
+      "originalName": "Breast Procedures",
+      "count": 1
+    },
+    {
+      "value": "soft_tissue_excisions",
+      "label": "Soft tissue excisions (1)",
+      "originalName": "Soft tissue excisions",
+      "count": 1
+    },
+    {
+      "value": "laparoscopic_cholecystectomies",
+      "label": "Laparoscopic cholecystectomies (1)",
+      "originalName": "Laparoscopic cholecystectomies",
+      "count": 1
+    },
+    {
+      "value": "hemorrhoidectomies",
+      "label": "Hemorrhoidectomies (1)",
+      "originalName": "Hemorrhoidectomies",
+      "count": 1
+    },
+    {
+      "value": "pilonidal_cystectomies",
+      "label": "Pilonidal cystectomies (1)",
+      "originalName": "Pilonidal cystectomies",
+      "count": 1
+    },
+    {
+      "value": "salveo_psychiatrists_provide_treatment_for_depression",
+      "label": "Salveo psychiatrists provide treatment for Depression (1)",
+      "originalName": "Salveo psychiatrists provide treatment for Depression",
+      "count": 1
+    },
+    {
+      "value": "anxiety",
+      "label": "Anxiety (1)",
+      "originalName": "Anxiety",
+      "count": 1
+    },
+    {
+      "value": "attention_deficit_disorder",
+      "label": "Attention Deficit Disorder (1)",
+      "originalName": "Attention Deficit Disorder",
+      "count": 1
+    },
+    {
+      "value": "child___adolescent_behavior_disorders",
+      "label": "Child & Adolescent Behavior Disorders (1)",
+      "originalName": "Child & Adolescent Behavior Disorders",
+      "count": 1
+    },
+    {
+      "value": "psychosis",
+      "label": "Psychosis (1)",
+      "originalName": "Psychosis",
+      "count": 1
+    },
+    {
+      "value": "dementia",
+      "label": "Dementia (1)",
+      "originalName": "Dementia",
+      "count": 1
+    },
+    {
+      "value": "alzheimer_s_disease",
+      "label": "Alzheimer’s Disease (1)",
+      "originalName": "Alzheimer’s Disease",
+      "count": 1
+    },
+    {
+      "value": "bipolar_disorder",
+      "label": "Bipolar Disorder (1)",
+      "originalName": "Bipolar Disorder",
+      "count": 1
+    },
+    {
+      "value": "substance_abuse",
+      "label": "Substance Abuse (1)",
+      "originalName": "Substance Abuse",
+      "count": 1
+    },
+    {
+      "value": "grief",
+      "label": "Grief (1)",
+      "originalName": "Grief",
+      "count": 1
+    },
+    {
+      "value": "family_issues",
+      "label": "Family Issues (1)",
+      "originalName": "Family Issues",
+      "count": 1
+    },
+    {
+      "value": "lgbtq_issues",
+      "label": "LGBTQ Issues (1)",
+      "originalName": "LGBTQ Issues",
+      "count": 1
+    },
+    {
+      "value": "and_many_other_behavioral_health_concerns",
+      "label": "and many other behavioral health concerns (1)",
+      "originalName": "and many other behavioral health concerns",
+      "count": 1
+    },
+    {
+      "value": "newborn_care_to_geriatrics",
+      "label": "Newborn care to geriatrics (1)",
+      "originalName": "Newborn care to geriatrics",
+      "count": 1
+    },
+    {
+      "value": "including_maternity_care",
+      "label": "including maternity care (1)",
+      "originalName": "including maternity care",
+      "count": 1
+    },
+    {
+      "value": "pediatric_care__immunizations",
+      "label": "Pediatric Care: Immunizations (1)",
+      "originalName": "Pediatric Care: Immunizations",
+      "count": 1
+    },
+    {
+      "value": "allergy___asthma",
+      "label": "Allergy & Asthma (1)",
+      "originalName": "Allergy & Asthma",
+      "count": 1
+    },
+    {
+      "value": "sick_care_visits",
+      "label": "Sick Care Visits (1)",
+      "originalName": "Sick Care Visits",
+      "count": 1
+    },
+    {
+      "value": "wellness_check_ups",
+      "label": "Wellness Check-ups (1)",
+      "originalName": "Wellness Check-ups",
+      "count": 1
+    },
+    {
+      "value": "education_concern_visits",
+      "label": "Education/Concern Visits (1)",
+      "originalName": "Education/Concern Visits",
+      "count": 1
+    },
+    {
+      "value": "ear_lavage__adolescent_care",
+      "label": "Ear Lavage. Adolescent Care (1)",
+      "originalName": "Ear Lavage. Adolescent Care",
+      "count": 1
+    },
+    {
+      "value": "adult_services",
+      "label": "Adult Services (1)",
+      "originalName": "Adult Services",
+      "count": 1
+    },
+    {
+      "value": "labs",
+      "label": "Labs (1)",
+      "originalName": "Labs",
+      "count": 1
+    },
+    {
+      "value": "dermatology",
+      "label": "Dermatology (1)",
+      "originalName": "Dermatology",
+      "count": 1
+    },
+    {
+      "value": "general_medical_services",
+      "label": "General Medical Services (1)",
+      "originalName": "General Medical Services",
+      "count": 1
+    },
+    {
+      "value": "chronic_disease_management__appointment_only_",
+      "label": "Chronic Disease Management (appointment only) (1)",
+      "originalName": "Chronic Disease Management (appointment only)",
+      "count": 1
+    },
+    {
+      "value": "mental_health__thru_partnership_with_salveo_integrative_health_",
+      "label": "Mental Health (thru partnership with Salveo Integrative Health) (1)",
+      "originalName": "Mental Health (thru partnership with Salveo Integrative Health)",
+      "count": 1
+    },
+    {
+      "value": "psychiatry",
+      "label": "Psychiatry (1)",
+      "originalName": "Psychiatry",
+      "count": 1
+    },
+    {
+      "value": "medication_assistance",
+      "label": "Medication Assistance (1)",
+      "originalName": "Medication Assistance",
+      "count": 1
+    },
+    {
+      "value": "lab___x_ray",
+      "label": "Lab & X-Ray (1)",
+      "originalName": "Lab & X-Ray",
+      "count": 1
+    },
+    {
+      "value": "ultrasound_services",
+      "label": "Ultrasound Services (1)",
+      "originalName": "Ultrasound Services",
+      "count": 1
+    },
+    {
+      "value": "dental_care",
+      "label": "Dental care (1)",
+      "originalName": "Dental care",
+      "count": 1
+    },
+    {
+      "value": "non_emergency_primary_care",
+      "label": "Non-emergency primary care (1)",
+      "originalName": "Non-emergency primary care",
+      "count": 1
+    },
+    {
+      "value": "which_includes_medical",
+      "label": "which includes medical (1)",
+      "originalName": "which includes medical",
+      "count": 1
+    },
+    {
+      "value": "pharmaceutical",
+      "label": "pharmaceutical (1)",
+      "originalName": "pharmaceutical",
+      "count": 1
+    },
+    {
+      "value": "and_dental_services_for_qualifying_patients_over_the_age_of_18__the_clinic_treats_conditions_related_to_high_blood_pressure",
+      "label": "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure (1)",
+      "originalName": "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure",
+      "count": 1
+    },
+    {
+      "value": "high_cholesterol",
+      "label": "high cholesterol (1)",
+      "originalName": "high cholesterol",
+      "count": 1
+    },
+    {
+      "value": "non_insulin_diabetes",
+      "label": "non-insulin diabetes (1)",
+      "originalName": "non-insulin diabetes",
+      "count": 1
+    },
+    {
+      "value": "asthma",
+      "label": "asthma (1)",
+      "originalName": "asthma",
+      "count": 1
+    },
+    {
+      "value": "thyroid_issues",
+      "label": "thyroid issues (1)",
+      "originalName": "thyroid issues",
+      "count": 1
+    },
+    {
+      "value": "and_women_s_health__the_clinic_is_unable_to_manage_conditions_such_as_common_colds",
+      "label": "and women's health. The clinic is unable to manage conditions such as common colds (1)",
+      "originalName": "and women's health. The clinic is unable to manage conditions such as common colds",
+      "count": 1
+    },
+    {
+      "value": "insulin_dependent_diabetes",
+      "label": "insulin-dependent diabetes (1)",
+      "originalName": "insulin-dependent diabetes",
+      "count": 1
+    },
+    {
+      "value": "cancer",
+      "label": "cancer (1)",
+      "originalName": "cancer",
+      "count": 1
+    },
+    {
+      "value": "orthopedic_concerns",
+      "label": "orthopedic concerns (1)",
+      "originalName": "orthopedic concerns",
+      "count": 1
+    },
+    {
+      "value": "and_heart_related_problems__dental_clinics_are_offered_on_the_first_and_third_thursday_of_each_month__the_clinic_treats_dental_conditions_related_to_fillings_and_extractions__the_clinic_is_unable_to_manage_conditions_requiring_root_canals",
+      "label": "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals (1)",
+      "originalName": "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals",
+      "count": 1
+    },
+    {
+      "value": "crowns",
+      "label": "crowns (1)",
+      "originalName": "crowns",
+      "count": 1
+    },
+    {
+      "value": "and_implants",
+      "label": "and implants (1)",
+      "originalName": "and implants",
+      "count": 1
+    },
+    {
+      "value": "services_for_those_with_intellectual_and_developmental_disabilities",
+      "label": "Services for those with intellectual and developmental disabilities (1)",
+      "originalName": "Services for those with intellectual and developmental disabilities",
+      "count": 1
+    },
+    {
+      "value": "mental_health_and_substance_abuse_disorders__provides_outpatient_care_as_well_as_community",
+      "label": "mental health and substance abuse disorders. Provides outpatient care as well as community (1)",
+      "originalName": "mental health and substance abuse disorders. Provides outpatient care as well as community",
+      "count": 1
+    },
+    {
+      "value": "specialty",
+      "label": "specialty (1)",
+      "originalName": "specialty",
+      "count": 1
+    },
+    {
+      "value": "and_acute_services",
+      "label": "and acute services (1)",
+      "originalName": "and acute services",
+      "count": 1
+    },
+    {
+      "value": "medication_assisted_treatment_for_opiod_addiction",
+      "label": "Medication Assisted Treatment for Opiod Addiction (1)",
+      "originalName": "Medication Assisted Treatment for Opiod Addiction",
+      "count": 1
+    },
+    {
+      "value": "obstetrics",
+      "label": "Obstetrics (1)",
+      "originalName": "Obstetrics",
+      "count": 1
+    },
+    {
+      "value": "gynecology",
+      "label": "Gynecology (1)",
+      "originalName": "Gynecology",
+      "count": 1
+    },
+    {
+      "value": "mammography",
+      "label": "Mammography (1)",
+      "originalName": "Mammography",
+      "count": 1
+    },
+    {
+      "value": "lab_testing",
+      "label": "Lab Testing (1)",
+      "originalName": "Lab Testing",
+      "count": 1
+    },
+    {
+      "value": "ultrasound",
+      "label": "Ultrasound (1)",
+      "originalName": "Ultrasound",
+      "count": 1
+    },
+    {
+      "value": "cosmetic_botox",
+      "label": "Cosmetic Botox (1)",
+      "originalName": "Cosmetic Botox",
+      "count": 1
+    }
+  ],
+  "statistics": {
+    "Bariatric Weight Loss": 1,
+    "Behavioral Health": 2,
+    "Cancer": 1,
+    "Diabetes": 2,
+    "Emergency & Unplanned Care": 1,
+    "Endoscopy": 1,
+    "Heart & Vascular": 1,
+    "Home Health": 1,
+    "Hospice": 1,
+    "Imaging/Radiology": 1,
+    "Laboratory Services": 1,
+    "Long Term Care": 1,
+    "Neurosciences": 1,
+    "Orthopedics": 1,
+    "Occupational Medicine": 2,
+    "Pain Medicine": 1,
+    "Palliative Care": 1,
+    "Pulmonary Rehabilitation": 1,
+    "Rehabilitation": 1,
+    "Sleep Disorders Center": 1,
+    "Substance Abuse Treatment": 1,
+    "Surgery": 1,
+    "Trauma": 2,
+    "Urgent Care": 4,
+    "Women & Children": 1,
+    "Wound Healing Center": 1,
+    "Vision care": 15,
+    "Eye exams": 15,
+    "Mental Health Counseling - Providing individual": 1,
+    "couples and family counseling": 1,
+    "Dental Care (Adult & Pediatric)": 5,
+    "Senior assisted living/memory care": 1,
+    "Providing Advanced": 1,
+    "Compassionate Care in 60-plus Pediatric Specialties": 1,
+    "Dental Care": 5,
+    "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties": 1,
+    "ensuring our clients have the resources and support they need": 1,
+    "both in-person and virtually at our offices across Metro Atlanta. Individual": 1,
+    "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations": 1,
+    "including families": 1,
+    "veterans": 1,
+    "and the LGBTQ+ and Hispanic communities": 1,
+    "Adult Medicine": 1,
+    "Pediatrics/Adolescent Care": 1,
+    "Family Planning/GYN": 1,
+    "Pharmacy": 2,
+    "Podiatry (Adult & Pediatric)": 1,
+    "Health Education & Nutrition Counseling": 1,
+    "Medication Assisted Treatment": 1,
+    "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up)": 1,
+    "COVID-19 Testing for symptomatic patients (not travel)": 1,
+    "STD/STI Testing": 1,
+    "TB Testing": 1,
+    "Nephrology Testing": 1,
+    "Quantiferon Testing": 1,
+    "Blood pressure tracker (Machines free of cost for patients with hypertension": 1,
+    "tracks via connected app)": 1,
+    "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office": 1,
+    "which is the main office. Children are still able to receive services at all locations": 1,
+    "Primary Care": 1,
+    "Cardiac Imaging & Testing": 1,
+    "Diagnostic Testing / Radiology": 1,
+    "Laboratory Testing": 1,
+    "Podiatry": 1,
+    "Nephrology": 1,
+    "Pain Management": 1,
+    "Family Care": 2,
+    "Men’s Health": 1,
+    "Women’s Health": 1,
+    "Pediatric Health": 1,
+    "Geriatric Care": 1,
+    "Annual Examinations": 1,
+    "Wellness Plans": 1,
+    "Adult Immunizations": 2,
+    "Women's Health": 1,
+    "Weight Management": 1,
+    "Medication Management": 1,
+    "Diabetes Education": 1,
+    "Hypertension": 2,
+    "Geriatrics": 1,
+    "Arthritis Care": 1,
+    "Child Immunizations": 2,
+    "Women": 2,
+    "Infants": 2,
+    "and Children (WIC)": 2,
+    "Children Health Check Exams": 2,
+    "Children 1st": 2,
+    "School Screenings": 2,
+    "Teen Services": 2,
+    "Family Planning": 3,
+    "DNA/Lab Tests": 2,
+    "Pregnancy and Prenatal Related Services": 2,
+    "Mammograms/Services for Women over 40": 2,
+    "Cancer Screenings": 2,
+    "Travel & Adult Immunizations": 1,
+    "STD Testing": 2,
+    "Treatment and Follow-up": 2,
+    "TB Testing and Treatment": 2,
+    "Disease Testing and Counseling": 2,
+    "Environmental Health Services": 2,
+    "Refugee Health": 2,
+    "PrEP for HIV Prevention": 2,
+    "General Dentistry": 2,
+    "Oral Surgery": 1,
+    "Cosmetic Procedures": 1,
+    "OBGYN": 1,
+    "GYN Surgery": 1,
+    "No baby delivery": 1,
+    "Breast Cancer surgery & reconstruction": 1,
+    "General surgery procedures": 1,
+    "Vision Care": 1,
+    "Eye Exams": 1,
+    "Urgent Care & Primary Care. We take care of non-emergency injuries": 1,
+    "physical and immigration medical exams": 1,
+    "and general health care": 1,
+    "Cosmetic Dentistry": 1,
+    "Children’s Dentistry": 1,
+    "Mental Health Counseling": 1,
+    "Individual Therapy": 1,
+    "Marriage/Couples Therapy": 1,
+    "Family Therapy": 1,
+    "Child/Teen Therapy": 1,
+    "Online Therapy": 1,
+    "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday": 1,
+    "Wednesday and Friday afternoons Vaccines": 1,
+    "as recommended by the Centers for Disease Control and Prevention": 1,
+    "Services: Advanced Maternal Age": 1,
+    "Complicated Pregnancy": 1,
+    "Diabetes Management in Pregnancy": 1,
+    "Genetic Counseling": 1,
+    "Heart Disease": 1,
+    "High Risk Obstetric Care and Consults": 1,
+    "High-Risk Pregnancy": 1,
+    "In Vitro Fertilization": 1,
+    "Inpatient Consultation and Care": 1,
+    "Kidney Disease": 1,
+    "Management of Multiple Gestations (twins or more)": 1,
+    "Morbidly Obese Patients": 1,
+    "Pre-Conception Counseling": 1,
+    "Prematurity Testing": 1,
+    "Medical Services - Income based - Family Health Services": 1,
+    "Educational Services": 1,
+    "Family Planning & Birth Control": 1,
+    "Medication Assisted Recovery": 1,
+    "Occupational Health": 1,
+    "Sexual Health": 1,
+    "Well Child Checks": 1,
+    "Pharmacy Delivery to Office": 1,
+    "Offer support meetings and coaching sessions. Provides recourse options for treatment": 1,
+    "detox": 1,
+    "recovery housing": 1,
+    "recovery centers": 1,
+    "continued recovery coaching and meeting sites": 1,
+    "Obstetrics & Gynecology": 1,
+    "Family Medicine": 1,
+    "Obstetrics: Midwifery care": 1,
+    "Health maintenance during pregnancy": 1,
+    "High risk pregnancy care": 1,
+    "Routine prenatal care. Gynecological Services: Family Planning": 1,
+    "Infertility": 2,
+    "Operative Gynecology": 1,
+    "Pelvic Pain": 1,
+    "Endometriosis": 1,
+    "Pre and post menopause": 1,
+    "Routine/Well woman Care": 1,
+    "Uterine Fibroids": 1,
+    "Utero-vaginal Prolapse": 1,
+    "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care": 1,
+    "cardiac": 1,
+    "maternity and cancer services": 1,
+    "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store": 1,
+    "which carries basic baby care items": 1,
+    "along with some big items": 1,
+    "Covid-19 Testing": 2,
+    "Minor Illness & Injury": 1,
+    "COVID-19 PCR Testing": 1,
+    "COVID-19 Rapid Antigen Testing": 1,
+    "Sports Physicals": 1,
+    "X-rays": 2,
+    "On-Site Labs": 1,
+    "*For patients under 2 years old": 1,
+    "please call clinic": 1,
+    "Abortion services/referrals": 1,
+    "Birth control/emergency contraception": 1,
+    "General healthcare": 1,
+    "HIV Services": 1,
+    "STD Testing/Treatment": 1,
+    "Men/Women's services": 1,
+    "Transgender hormone therapy": 1,
+    "Pregnancy testing & services": 1,
+    "Travel Immunizations": 1,
+    "Services provided at all locations include: blood work": 1,
+    "ABIs (Ankle Brachial Index)": 1,
+    "EKGs": 1,
+    "geriatric care": 1,
+    "Holter monitors": 1,
+    "Lung Function Tests": 1,
+    "pain management": 1,
+    "pap smears": 1,
+    "suturing": 1,
+    "urgent care": 1,
+    "acute care": 1,
+    "physicials and medical help with smoke cessation": 1,
+    "fractures and splints": 1,
+    "weight loss": 1,
+    "workers compensation": 1,
+    "and pain management": 1,
+    "General Practice (Smoking Cessation": 1,
+    "Emphysema": 1,
+    "Arthritis": 1,
+    "Mole Biopsy and Excisions": 1,
+    "Lacerations & Sutures": 1,
+    "Bone Density/Osteoporosis Treatment": 1,
+    "Mental Health)": 1,
+    "Family Medicine (Women's Health": 1,
+    "Preventative Health": 1,
+    "Communicable Diseases": 1,
+    "Immunizations": 1,
+    "Allergy Testing": 1,
+    "Cold & Flu": 1,
+    "Labs)": 1,
+    "Medical Weight Loss": 1,
+    "COVID-19 Resources": 1,
+    "Hernia Repairs": 1,
+    "Breast Procedures": 1,
+    "Soft tissue excisions": 1,
+    "Laparoscopic cholecystectomies": 1,
+    "Hemorrhoidectomies": 1,
+    "Pilonidal cystectomies": 1,
+    "Salveo psychiatrists provide treatment for Depression": 1,
+    "Anxiety": 1,
+    "Attention Deficit Disorder": 1,
+    "Child & Adolescent Behavior Disorders": 1,
+    "Psychosis": 1,
+    "Dementia": 1,
+    "Alzheimer’s Disease": 1,
+    "Bipolar Disorder": 1,
+    "Substance Abuse": 1,
+    "Grief": 1,
+    "Family Issues": 1,
+    "LGBTQ Issues": 1,
+    "and many other behavioral health concerns": 1,
+    "Newborn care to geriatrics": 1,
+    "including maternity care": 1,
+    "Pediatric Care: Immunizations": 1,
+    "Allergy & Asthma": 1,
+    "Sick Care Visits": 1,
+    "Wellness Check-ups": 1,
+    "Education/Concern Visits": 1,
+    "Ear Lavage. Adolescent Care": 1,
+    "Adult Services": 1,
+    "Labs": 1,
+    "Dermatology": 1,
+    "General Medical Services": 1,
+    "Chronic Disease Management (appointment only)": 1,
+    "Mental Health (thru partnership with Salveo Integrative Health)": 1,
+    "Psychiatry": 1,
+    "Medication Assistance": 1,
+    "Lab & X-Ray": 1,
+    "Ultrasound Services": 1,
+    "Dental care": 1,
+    "Non-emergency primary care": 1,
+    "which includes medical": 1,
+    "pharmaceutical": 1,
+    "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure": 1,
+    "high cholesterol": 1,
+    "non-insulin diabetes": 1,
+    "asthma": 1,
+    "thyroid issues": 1,
+    "and women's health. The clinic is unable to manage conditions such as common colds": 1,
+    "insulin-dependent diabetes": 1,
+    "cancer": 1,
+    "orthopedic concerns": 1,
+    "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals": 1,
+    "crowns": 1,
+    "and implants": 1,
+    "Services for those with intellectual and developmental disabilities": 1,
+    "mental health and substance abuse disorders. Provides outpatient care as well as community": 1,
+    "specialty": 1,
+    "and acute services": 1,
+    "Medication Assisted Treatment for Opiod Addiction": 1,
+    "Obstetrics": 1,
+    "Gynecology": 1,
+    "Mammography": 1,
+    "Lab Testing": 1,
+    "Ultrasound": 1,
+    "Cosmetic Botox": 1
+  },
+  "categories": {
+    "Dental": [
+      {
+        "service": "Dental Care (Adult & Pediatric)",
+        "count": 5
+      },
+      {
+        "service": "Dental Care",
+        "count": 5
+      },
+      {
+        "service": "Behavioral Health",
+        "count": 2
+      },
+      {
+        "service": "Oral Surgery",
+        "count": 1
+      },
+      {
+        "service": "and many other behavioral health concerns",
+        "count": 1
+      },
+      {
+        "service": "Dental care",
+        "count": 1
+      },
+      {
+        "service": "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure",
+        "count": 1
+      },
+      {
+        "service": "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals",
+        "count": 1
+      }
+    ],
+    "Vision/Eye": [
+      {
+        "service": "Vision care",
+        "count": 15
+      },
+      {
+        "service": "Eye exams",
+        "count": 15
+      },
+      {
+        "service": "Vision Care",
+        "count": 1
+      },
+      {
+        "service": "Eye Exams",
+        "count": 1
+      }
+    ],
+    "Mental Health": [
+      {
+        "service": "Disease Testing and Counseling",
+        "count": 2
+      },
+      {
+        "service": "Environmental Health Services",
+        "count": 2
+      },
+      {
+        "service": "Mental Health Counseling - Providing individual",
+        "count": 1
+      },
+      {
+        "service": "couples and family counseling",
+        "count": 1
+      },
+      {
+        "service": "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties",
+        "count": 1
+      },
+      {
+        "service": "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations",
+        "count": 1
+      },
+      {
+        "service": "Health Education & Nutrition Counseling",
+        "count": 1
+      },
+      {
+        "service": "Mental Health Counseling",
+        "count": 1
+      },
+      {
+        "service": "Individual Therapy",
+        "count": 1
+      },
+      {
+        "service": "Marriage/Couples Therapy",
+        "count": 1
+      },
+      {
+        "service": "Family Therapy",
+        "count": 1
+      },
+      {
+        "service": "Child/Teen Therapy",
+        "count": 1
+      },
+      {
+        "service": "Online Therapy",
+        "count": 1
+      },
+      {
+        "service": "Genetic Counseling",
+        "count": 1
+      },
+      {
+        "service": "Pre-Conception Counseling",
+        "count": 1
+      },
+      {
+        "service": "Transgender hormone therapy",
+        "count": 1
+      },
+      {
+        "service": "Mental Health)",
+        "count": 1
+      },
+      {
+        "service": "Mental Health (thru partnership with Salveo Integrative Health)",
+        "count": 1
+      },
+      {
+        "service": "Services for those with intellectual and developmental disabilities",
+        "count": 1
+      },
+      {
+        "service": "mental health and substance abuse disorders. Provides outpatient care as well as community",
+        "count": 1
+      }
+    ],
+    "Emergency/Urgent": [
+      {
+        "service": "Urgent Care",
+        "count": 4
+      },
+      {
+        "service": "Trauma",
+        "count": 2
+      },
+      {
+        "service": "Emergency & Unplanned Care",
+        "count": 1
+      },
+      {
+        "service": "Urgent Care & Primary Care. We take care of non-emergency injuries",
+        "count": 1
+      },
+      {
+        "service": "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care",
+        "count": 1
+      },
+      {
+        "service": "Birth control/emergency contraception",
+        "count": 1
+      },
+      {
+        "service": "urgent care",
+        "count": 1
+      },
+      {
+        "service": "Non-emergency primary care",
+        "count": 1
+      }
+    ],
+    "Primary Care": [
+      {
+        "service": "Family Planning",
+        "count": 3
+      },
+      {
+        "service": "Family Care",
+        "count": 2
+      },
+      {
+        "service": "Compassionate Care in 60-plus Pediatric Specialties",
+        "count": 1
+      },
+      {
+        "service": "Pediatrics/Adolescent Care",
+        "count": 1
+      },
+      {
+        "service": "Family Planning/GYN",
+        "count": 1
+      },
+      {
+        "service": "Podiatry (Adult & Pediatric)",
+        "count": 1
+      },
+      {
+        "service": "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office",
+        "count": 1
+      },
+      {
+        "service": "Primary Care",
+        "count": 1
+      },
+      {
+        "service": "Pediatric Health",
+        "count": 1
+      },
+      {
+        "service": "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday",
+        "count": 1
+      },
+      {
+        "service": "Medical Services - Income based - Family Health Services",
+        "count": 1
+      },
+      {
+        "service": "Family Planning & Birth Control",
+        "count": 1
+      },
+      {
+        "service": "Family Medicine",
+        "count": 1
+      },
+      {
+        "service": "Routine prenatal care. Gynecological Services: Family Planning",
+        "count": 1
+      },
+      {
+        "service": "Family Medicine (Women's Health",
+        "count": 1
+      },
+      {
+        "service": "Family Issues",
+        "count": 1
+      },
+      {
+        "service": "Pediatric Care: Immunizations",
+        "count": 1
+      }
+    ],
+    "Specialized": [
+      {
+        "service": "Cancer Screenings",
+        "count": 2
+      },
+      {
+        "service": "Cancer",
+        "count": 1
+      },
+      {
+        "service": "Heart & Vascular",
+        "count": 1
+      },
+      {
+        "service": "Neurosciences",
+        "count": 1
+      },
+      {
+        "service": "Orthopedics",
+        "count": 1
+      },
+      {
+        "service": "Breast Cancer surgery & reconstruction",
+        "count": 1
+      },
+      {
+        "service": "Heart Disease",
+        "count": 1
+      },
+      {
+        "service": "maternity and cancer services",
+        "count": 1
+      },
+      {
+        "service": "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store",
+        "count": 1
+      },
+      {
+        "service": "cancer",
+        "count": 1
+      },
+      {
+        "service": "orthopedic concerns",
+        "count": 1
+      }
+    ],
+    "Laboratory/Imaging": [
+      {
+        "service": "DNA/Lab Tests",
+        "count": 2
+      },
+      {
+        "service": "Imaging/Radiology",
+        "count": 1
+      },
+      {
+        "service": "Laboratory Services",
+        "count": 1
+      },
+      {
+        "service": "Cardiac Imaging & Testing",
+        "count": 1
+      },
+      {
+        "service": "Diagnostic Testing / Radiology",
+        "count": 1
+      },
+      {
+        "service": "Laboratory Testing",
+        "count": 1
+      },
+      {
+        "service": "On-Site Labs",
+        "count": 1
+      },
+      {
+        "service": "Labs)",
+        "count": 1
+      },
+      {
+        "service": "Labs",
+        "count": 1
+      },
+      {
+        "service": "Lab & X-Ray",
+        "count": 1
+      },
+      {
+        "service": "Lab Testing",
+        "count": 1
+      }
+    ],
+    "Other": [
+      {
+        "service": "Diabetes",
+        "count": 2
+      },
+      {
+        "service": "Occupational Medicine",
+        "count": 2
+      },
+      {
+        "service": "Pharmacy",
+        "count": 2
+      },
+      {
+        "service": "Adult Immunizations",
+        "count": 2
+      },
+      {
+        "service": "Hypertension",
+        "count": 2
+      },
+      {
+        "service": "Child Immunizations",
+        "count": 2
+      },
+      {
+        "service": "Women",
+        "count": 2
+      },
+      {
+        "service": "Infants",
+        "count": 2
+      },
+      {
+        "service": "and Children (WIC)",
+        "count": 2
+      },
+      {
+        "service": "Children Health Check Exams",
+        "count": 2
+      },
+      {
+        "service": "Children 1st",
+        "count": 2
+      },
+      {
+        "service": "School Screenings",
+        "count": 2
+      },
+      {
+        "service": "Teen Services",
+        "count": 2
+      },
+      {
+        "service": "Pregnancy and Prenatal Related Services",
+        "count": 2
+      },
+      {
+        "service": "Mammograms/Services for Women over 40",
+        "count": 2
+      },
+      {
+        "service": "STD Testing",
+        "count": 2
+      },
+      {
+        "service": "Treatment and Follow-up",
+        "count": 2
+      },
+      {
+        "service": "TB Testing and Treatment",
+        "count": 2
+      },
+      {
+        "service": "Refugee Health",
+        "count": 2
+      },
+      {
+        "service": "PrEP for HIV Prevention",
+        "count": 2
+      },
+      {
+        "service": "General Dentistry",
+        "count": 2
+      },
+      {
+        "service": "Infertility",
+        "count": 2
+      },
+      {
+        "service": "Covid-19 Testing",
+        "count": 2
+      },
+      {
+        "service": "X-rays",
+        "count": 2
+      },
+      {
+        "service": "Bariatric Weight Loss",
+        "count": 1
+      },
+      {
+        "service": "Endoscopy",
+        "count": 1
+      },
+      {
+        "service": "Home Health",
+        "count": 1
+      },
+      {
+        "service": "Hospice",
+        "count": 1
+      },
+      {
+        "service": "Long Term Care",
+        "count": 1
+      },
+      {
+        "service": "Pain Medicine",
+        "count": 1
+      },
+      {
+        "service": "Palliative Care",
+        "count": 1
+      },
+      {
+        "service": "Pulmonary Rehabilitation",
+        "count": 1
+      },
+      {
+        "service": "Rehabilitation",
+        "count": 1
+      },
+      {
+        "service": "Sleep Disorders Center",
+        "count": 1
+      },
+      {
+        "service": "Substance Abuse Treatment",
+        "count": 1
+      },
+      {
+        "service": "Surgery",
+        "count": 1
+      },
+      {
+        "service": "Women & Children",
+        "count": 1
+      },
+      {
+        "service": "Wound Healing Center",
+        "count": 1
+      },
+      {
+        "service": "Senior assisted living/memory care",
+        "count": 1
+      },
+      {
+        "service": "Providing Advanced",
+        "count": 1
+      },
+      {
+        "service": "ensuring our clients have the resources and support they need",
+        "count": 1
+      },
+      {
+        "service": "both in-person and virtually at our offices across Metro Atlanta. Individual",
+        "count": 1
+      },
+      {
+        "service": "including families",
+        "count": 1
+      },
+      {
+        "service": "veterans",
+        "count": 1
+      },
+      {
+        "service": "and the LGBTQ+ and Hispanic communities",
+        "count": 1
+      },
+      {
+        "service": "Adult Medicine",
+        "count": 1
+      },
+      {
+        "service": "Medication Assisted Treatment",
+        "count": 1
+      },
+      {
+        "service": "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up)",
+        "count": 1
+      },
+      {
+        "service": "COVID-19 Testing for symptomatic patients (not travel)",
+        "count": 1
+      },
+      {
+        "service": "STD/STI Testing",
+        "count": 1
+      },
+      {
+        "service": "TB Testing",
+        "count": 1
+      },
+      {
+        "service": "Nephrology Testing",
+        "count": 1
+      },
+      {
+        "service": "Quantiferon Testing",
+        "count": 1
+      },
+      {
+        "service": "Blood pressure tracker (Machines free of cost for patients with hypertension",
+        "count": 1
+      },
+      {
+        "service": "tracks via connected app)",
+        "count": 1
+      },
+      {
+        "service": "which is the main office. Children are still able to receive services at all locations",
+        "count": 1
+      },
+      {
+        "service": "Podiatry",
+        "count": 1
+      },
+      {
+        "service": "Nephrology",
+        "count": 1
+      },
+      {
+        "service": "Pain Management",
+        "count": 1
+      },
+      {
+        "service": "Men’s Health",
+        "count": 1
+      },
+      {
+        "service": "Women’s Health",
+        "count": 1
+      },
+      {
+        "service": "Geriatric Care",
+        "count": 1
+      },
+      {
+        "service": "Annual Examinations",
+        "count": 1
+      },
+      {
+        "service": "Wellness Plans",
+        "count": 1
+      },
+      {
+        "service": "Women's Health",
+        "count": 1
+      },
+      {
+        "service": "Weight Management",
+        "count": 1
+      },
+      {
+        "service": "Medication Management",
+        "count": 1
+      },
+      {
+        "service": "Diabetes Education",
+        "count": 1
+      },
+      {
+        "service": "Geriatrics",
+        "count": 1
+      },
+      {
+        "service": "Arthritis Care",
+        "count": 1
+      },
+      {
+        "service": "Travel & Adult Immunizations",
+        "count": 1
+      },
+      {
+        "service": "Cosmetic Procedures",
+        "count": 1
+      },
+      {
+        "service": "OBGYN",
+        "count": 1
+      },
+      {
+        "service": "GYN Surgery",
+        "count": 1
+      },
+      {
+        "service": "No baby delivery",
+        "count": 1
+      },
+      {
+        "service": "General surgery procedures",
+        "count": 1
+      },
+      {
+        "service": "physical and immigration medical exams",
+        "count": 1
+      },
+      {
+        "service": "and general health care",
+        "count": 1
+      },
+      {
+        "service": "Cosmetic Dentistry",
+        "count": 1
+      },
+      {
+        "service": "Children’s Dentistry",
+        "count": 1
+      },
+      {
+        "service": "Wednesday and Friday afternoons Vaccines",
+        "count": 1
+      },
+      {
+        "service": "as recommended by the Centers for Disease Control and Prevention",
+        "count": 1
+      },
+      {
+        "service": "Services: Advanced Maternal Age",
+        "count": 1
+      },
+      {
+        "service": "Complicated Pregnancy",
+        "count": 1
+      },
+      {
+        "service": "Diabetes Management in Pregnancy",
+        "count": 1
+      },
+      {
+        "service": "High Risk Obstetric Care and Consults",
+        "count": 1
+      },
+      {
+        "service": "High-Risk Pregnancy",
+        "count": 1
+      },
+      {
+        "service": "In Vitro Fertilization",
+        "count": 1
+      },
+      {
+        "service": "Inpatient Consultation and Care",
+        "count": 1
+      },
+      {
+        "service": "Kidney Disease",
+        "count": 1
+      },
+      {
+        "service": "Management of Multiple Gestations (twins or more)",
+        "count": 1
+      },
+      {
+        "service": "Morbidly Obese Patients",
+        "count": 1
+      },
+      {
+        "service": "Prematurity Testing",
+        "count": 1
+      },
+      {
+        "service": "Educational Services",
+        "count": 1
+      },
+      {
+        "service": "Medication Assisted Recovery",
+        "count": 1
+      },
+      {
+        "service": "Occupational Health",
+        "count": 1
+      },
+      {
+        "service": "Sexual Health",
+        "count": 1
+      },
+      {
+        "service": "Well Child Checks",
+        "count": 1
+      },
+      {
+        "service": "Pharmacy Delivery to Office",
+        "count": 1
+      },
+      {
+        "service": "Offer support meetings and coaching sessions. Provides recourse options for treatment",
+        "count": 1
+      },
+      {
+        "service": "detox",
+        "count": 1
+      },
+      {
+        "service": "recovery housing",
+        "count": 1
+      },
+      {
+        "service": "recovery centers",
+        "count": 1
+      },
+      {
+        "service": "continued recovery coaching and meeting sites",
+        "count": 1
+      },
+      {
+        "service": "Obstetrics & Gynecology",
+        "count": 1
+      },
+      {
+        "service": "Obstetrics: Midwifery care",
+        "count": 1
+      },
+      {
+        "service": "Health maintenance during pregnancy",
+        "count": 1
+      },
+      {
+        "service": "High risk pregnancy care",
+        "count": 1
+      },
+      {
+        "service": "Operative Gynecology",
+        "count": 1
+      },
+      {
+        "service": "Pelvic Pain",
+        "count": 1
+      },
+      {
+        "service": "Endometriosis",
+        "count": 1
+      },
+      {
+        "service": "Pre and post menopause",
+        "count": 1
+      },
+      {
+        "service": "Routine/Well woman Care",
+        "count": 1
+      },
+      {
+        "service": "Uterine Fibroids",
+        "count": 1
+      },
+      {
+        "service": "Utero-vaginal Prolapse",
+        "count": 1
+      },
+      {
+        "service": "cardiac",
+        "count": 1
+      },
+      {
+        "service": "which carries basic baby care items",
+        "count": 1
+      },
+      {
+        "service": "along with some big items",
+        "count": 1
+      },
+      {
+        "service": "Minor Illness & Injury",
+        "count": 1
+      },
+      {
+        "service": "COVID-19 PCR Testing",
+        "count": 1
+      },
+      {
+        "service": "COVID-19 Rapid Antigen Testing",
+        "count": 1
+      },
+      {
+        "service": "Sports Physicals",
+        "count": 1
+      },
+      {
+        "service": "*For patients under 2 years old",
+        "count": 1
+      },
+      {
+        "service": "please call clinic",
+        "count": 1
+      },
+      {
+        "service": "Abortion services/referrals",
+        "count": 1
+      },
+      {
+        "service": "General healthcare",
+        "count": 1
+      },
+      {
+        "service": "HIV Services",
+        "count": 1
+      },
+      {
+        "service": "STD Testing/Treatment",
+        "count": 1
+      },
+      {
+        "service": "Men/Women's services",
+        "count": 1
+      },
+      {
+        "service": "Pregnancy testing & services",
+        "count": 1
+      },
+      {
+        "service": "Travel Immunizations",
+        "count": 1
+      },
+      {
+        "service": "Services provided at all locations include: blood work",
+        "count": 1
+      },
+      {
+        "service": "ABIs (Ankle Brachial Index)",
+        "count": 1
+      },
+      {
+        "service": "EKGs",
+        "count": 1
+      },
+      {
+        "service": "geriatric care",
+        "count": 1
+      },
+      {
+        "service": "Holter monitors",
+        "count": 1
+      },
+      {
+        "service": "Lung Function Tests",
+        "count": 1
+      },
+      {
+        "service": "pain management",
+        "count": 1
+      },
+      {
+        "service": "pap smears",
+        "count": 1
+      },
+      {
+        "service": "suturing",
+        "count": 1
+      },
+      {
+        "service": "acute care",
+        "count": 1
+      },
+      {
+        "service": "physicials and medical help with smoke cessation",
+        "count": 1
+      },
+      {
+        "service": "fractures and splints",
+        "count": 1
+      },
+      {
+        "service": "weight loss",
+        "count": 1
+      },
+      {
+        "service": "workers compensation",
+        "count": 1
+      },
+      {
+        "service": "and pain management",
+        "count": 1
+      },
+      {
+        "service": "General Practice (Smoking Cessation",
+        "count": 1
+      },
+      {
+        "service": "Emphysema",
+        "count": 1
+      },
+      {
+        "service": "Arthritis",
+        "count": 1
+      },
+      {
+        "service": "Mole Biopsy and Excisions",
+        "count": 1
+      },
+      {
+        "service": "Lacerations & Sutures",
+        "count": 1
+      },
+      {
+        "service": "Bone Density/Osteoporosis Treatment",
+        "count": 1
+      },
+      {
+        "service": "Preventative Health",
+        "count": 1
+      },
+      {
+        "service": "Communicable Diseases",
+        "count": 1
+      },
+      {
+        "service": "Immunizations",
+        "count": 1
+      },
+      {
+        "service": "Allergy Testing",
+        "count": 1
+      },
+      {
+        "service": "Cold & Flu",
+        "count": 1
+      },
+      {
+        "service": "Medical Weight Loss",
+        "count": 1
+      },
+      {
+        "service": "COVID-19 Resources",
+        "count": 1
+      },
+      {
+        "service": "Hernia Repairs",
+        "count": 1
+      },
+      {
+        "service": "Breast Procedures",
+        "count": 1
+      },
+      {
+        "service": "Soft tissue excisions",
+        "count": 1
+      },
+      {
+        "service": "Laparoscopic cholecystectomies",
+        "count": 1
+      },
+      {
+        "service": "Hemorrhoidectomies",
+        "count": 1
+      },
+      {
+        "service": "Pilonidal cystectomies",
+        "count": 1
+      },
+      {
+        "service": "Salveo psychiatrists provide treatment for Depression",
+        "count": 1
+      },
+      {
+        "service": "Anxiety",
+        "count": 1
+      },
+      {
+        "service": "Attention Deficit Disorder",
+        "count": 1
+      },
+      {
+        "service": "Child & Adolescent Behavior Disorders",
+        "count": 1
+      },
+      {
+        "service": "Psychosis",
+        "count": 1
+      },
+      {
+        "service": "Dementia",
+        "count": 1
+      },
+      {
+        "service": "Alzheimer’s Disease",
+        "count": 1
+      },
+      {
+        "service": "Bipolar Disorder",
+        "count": 1
+      },
+      {
+        "service": "Substance Abuse",
+        "count": 1
+      },
+      {
+        "service": "Grief",
+        "count": 1
+      },
+      {
+        "service": "LGBTQ Issues",
+        "count": 1
+      },
+      {
+        "service": "Newborn care to geriatrics",
+        "count": 1
+      },
+      {
+        "service": "including maternity care",
+        "count": 1
+      },
+      {
+        "service": "Allergy & Asthma",
+        "count": 1
+      },
+      {
+        "service": "Sick Care Visits",
+        "count": 1
+      },
+      {
+        "service": "Wellness Check-ups",
+        "count": 1
+      },
+      {
+        "service": "Education/Concern Visits",
+        "count": 1
+      },
+      {
+        "service": "Ear Lavage. Adolescent Care",
+        "count": 1
+      },
+      {
+        "service": "Adult Services",
+        "count": 1
+      },
+      {
+        "service": "Dermatology",
+        "count": 1
+      },
+      {
+        "service": "General Medical Services",
+        "count": 1
+      },
+      {
+        "service": "Chronic Disease Management (appointment only)",
+        "count": 1
+      },
+      {
+        "service": "Psychiatry",
+        "count": 1
+      },
+      {
+        "service": "Medication Assistance",
+        "count": 1
+      },
+      {
+        "service": "Ultrasound Services",
+        "count": 1
+      },
+      {
+        "service": "which includes medical",
+        "count": 1
+      },
+      {
+        "service": "pharmaceutical",
+        "count": 1
+      },
+      {
+        "service": "high cholesterol",
+        "count": 1
+      },
+      {
+        "service": "non-insulin diabetes",
+        "count": 1
+      },
+      {
+        "service": "asthma",
+        "count": 1
+      },
+      {
+        "service": "thyroid issues",
+        "count": 1
+      },
+      {
+        "service": "and women's health. The clinic is unable to manage conditions such as common colds",
+        "count": 1
+      },
+      {
+        "service": "insulin-dependent diabetes",
+        "count": 1
+      },
+      {
+        "service": "crowns",
+        "count": 1
+      },
+      {
+        "service": "and implants",
+        "count": 1
+      },
+      {
+        "service": "specialty",
+        "count": 1
+      },
+      {
+        "service": "and acute services",
+        "count": 1
+      },
+      {
+        "service": "Medication Assisted Treatment for Opiod Addiction",
+        "count": 1
+      },
+      {
+        "service": "Obstetrics",
+        "count": 1
+      },
+      {
+        "service": "Gynecology",
+        "count": 1
+      },
+      {
+        "service": "Mammography",
+        "count": 1
+      },
+      {
+        "service": "Ultrasound",
+        "count": 1
+      },
+      {
+        "service": "Cosmetic Botox",
+        "count": 1
+      }
+    ]
+  },
+  "total": 65,
+  "withServices": 65,
+  "withoutServices": 0
+}

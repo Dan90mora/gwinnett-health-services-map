@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "name": "Northeast Georgia Health System - Dacula",
+    "address": "852 Dacula Rd., Dacula, GA, 30019",
+    "city": "Dacula",
+    "website": "https://www.nghs.com/",
+    "phone": "770-848-9380",
+    "schedule": "Monday        8:00 AM - 8:00 PM\nTuesday        8:00 AM - 8:00 PM\nWednesday        8:00 AM - 8:00 PM\nThursday        8:00 AM - 8:00 PM\nFriday                8:00 AM - 8:00 PM\nSaturday        8:00 AM - 8:00 PM\nSunday\t8:00 AM - 8:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Bariatric Weight Loss",
+      "Behavioral Health",
+      "Cancer",
+      "Diabetes",
+      "Emergency & Unplanned Care",
+      "Endoscopy",
+      "Heart & Vascular",
+      "Home Health",
+      "Hospice",
+      "Imaging/Radiology",
+      "Laboratory Services",
+      "Long Term Care",
+      "Neurosciences",
+      "Orthopedics",
+      "Occupational Medicine",
+      "Pain Medicine",
+      "Palliative Care",
+      "Pulmonary Rehabilitation",
+      "Rehabilitation",
+      "Sleep Disorders Center",
+      "Substance Abuse Treatment",
+      "Surgery",
+      "Trauma",
+      "Urgent Care",
+      "Women & Children",
+      "Wound Healing Center."
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.91607057496554,
+      34.0089493530872
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=852%20Dacula%20Rd.%2C%20Dacula%2C%20GA%2C%2030019"
+  },
+  {
+    "id": 2,
+    "name": "Bethel Eyecare",
+    "address": "2148 Duluth Hwy., #102, Duluth, GA, 30097",
+    "city": "Duluth",
+    "website": "https://www.betheleyegroup.com/",
+    "phone": "770-817-3990",
+    "schedule": "Monday\t9:00 AM - 6:00 PM\nTuesday\t9:00 AM - 6:00 PM\nWednesday\t9:00 AM - 6:00 PM\nThursday\t9:00 AM - 6:00 PM\nFriday\t\t9:00 AM - 6:00 PM\nSaturday\t10:00 AM - 3:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.09385453263756,
+      33.97871554159259
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2148%20Duluth%20Hwy.%2C%20%23102%2C%20Duluth%2C%20GA%2C%2030097"
+  },
+  {
+    "id": 3,
+    "name": "Elevate Your Life Professional Counseling and Coaching",
+    "address": "2805 Peachtree Industrial Blvd Suite 115, Duluth, GA, 30097",
+    "city": "Duluth",
+    "website": "https://www.eylcounseling.com/",
+    "phone": "770-513-2279",
+    "schedule": "Monday        By Appointment \nTuesday        By Appointment \nWednesday        By Appointment \nThursday        By Appointment \nFriday                By Appointment",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Mental Health Counseling - Providing individual",
+      "couples and family counseling."
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.14647675582323,
+      34.02367981346148
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2805%20Peachtree%20Industrial%20Blvd%20Suite%20115%2C%20Duluth%2C%20GA%2C%2030097"
+  },
+  {
+    "id": 4,
+    "name": "MyEyeDr.",
+    "address": "6555 Sugarloaf Pkwy., Suite #305, Duluth, GA, 30097",
+    "city": "Duluth",
+    "website": "https://locations.myeyedr.com/ga/duluth/6555-sugarloaf-pkwy",
+    "phone": "770-495-0937",
+    "schedule": "Monday\t9:00 AM - 6:00 PM\nTuesday\t9:00 AM - 6:00 PM\nWednesday\t9:00 AM - 6:00 PM\nThursday\t9:00 AM - 6:00 PM\nFriday\t\t9:00 AM - 6:00 PM\nSaturday\t9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.09042877339942,
+      33.998199287058696
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=6555%20Sugarloaf%20Pkwy.%2C%20Suite%20%23305%2C%20Duluth%2C%20GA%2C%2030097"
+  },
+  {
+    "id": 5,
+    "name": "EyeBelieve Eyecare & Optical",
+    "address": "1295 Old Peachtree Rd. NW #160, Suwanee, GA, 30024",
+    "city": "Suwanee",
+    "website": "https://www.eyebelieveoptical.com/insurance-payments.html",
+    "phone": "770-545-8401",
+    "schedule": "Monday        10:00 AM - 5:00 PM\nTuesday        10:00 AM - 5:00 PM\nWednesday        10:00 AM - 5:00 PM\nThursday        10:00 AM - 5:00 PM\nFriday                10:00 AM - 5:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.08458323263649,
+      34.00440738547739
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1295%20Old%20Peachtree%20Rd.%20NW%20%23160%2C%20Suwanee%2C%20GA%2C%2030024"
+  },
+  {
+    "id": 6,
+    "name": "Suwanee Family Dentistry",
+    "address": "2566 Lawrenceville-Suwanee Rd, Suwanee, GA, 30024",
+    "city": "Suwanee",
+    "website": "https://www.suwaneefamilydentistry.com/",
+    "phone": "678-714-2380",
+    "schedule": "Monday\t8:00 AM - 5:00 PM\nTuesday\t8:00 AM - 5:00 PM\nWednesday\t8:00 AM - 5:00 PM\nThursday\t8:00 AM - 5:00 PM\nFriday\t\t8:00 AM - 5:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Dental Care (Adult & Pediatric)"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "Suwanee, Lawrenceville, Buford, Duluth, and Dacula",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.0415431461298,
+      34.017895771533276
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2566%20Lawrenceville-Suwanee%20Rd%2C%20Suwanee%2C%20GA%2C%2030024"
+  },
+  {
+    "id": 7,
+    "name": "U & M Family Eyecare",
+    "address": "2014 Lawrenceville-Suwanee Rd, Suwanee, GA, 30024",
+    "city": "Suwanee",
+    "website": "https://www.umeyecare.com/insurances",
+    "phone": "678-649-2020",
+    "schedule": "Monday        9:00 AM - 5:00 PM\nTuesday        9:00 AM - 5:00 PM\nWednesday        9:00 AM - 5:00 PM\nThursday        9:00 AM - 5:00 PM   \nFriday                9:00 AM - 5:00 PM\nSaturday        9:00 AM - 1:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.03854099030735,
+      33.99968865549628
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2014%20Lawrenceville-Suwanee%20Rd%2C%20Suwanee%2C%20GA%2C%2030024"
+  },
+  {
+    "id": 8,
+    "name": "Autumn Leaves Sugarloaf-Assisted Living",
+    "address": "1475 Satellite Blvd., Suwanee, GA, 30024",
+    "city": "Suwanee",
+    "website": "https://autumnleaves.com/sugarloaf-centenarian-horace/",
+    "phone": "678-990-4580",
+    "schedule": "24 hours / 7 days a week",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Senior assisted living/memory care"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.0805085614718,
+      34.00453818527189
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1475%20Satellite%20Blvd.%2C%20Suwanee%2C%20GA%2C%2030024"
+  },
+  {
+    "id": 9,
+    "name": "AMA Dental Care",
+    "address": "3370 Sugarloaf Pkwy., Suite G8, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.amadentalcare.com/",
+    "phone": "770-696-2878",
+    "schedule": "Monday\t9:00 AM - 5:00 PM\nTuesday\t9:00 AM - 5:00 PM\nWednesday\t9:00 AM - 5:00 PM\nThursday\t9:00 AM - 5:00 PM\nFriday\t\t9:00 AM - 5:00 PM\nSaturday\t9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "french",
+      "creole"
+    ],
+    "services": [
+      "Dental Care (Adult & Pediatric)"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01827936332282,
+      33.92148622981105
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3370%20Sugarloaf%20Pkwy.%2C%20Suite%20G8%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 10,
+    "name": "Brookwood Eyecare",
+    "address": "3370 Sugarloaf Pkwy. B-3, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.brookwoodeyes.com/",
+    "phone": "770-736-7774",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01812544613395,
+      33.921219501740886
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3370%20Sugarloaf%20Pkwy.%20B-3%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 11,
+    "name": "CHOA - Cardiology - Lawrenceville",
+    "address": "738 Old Norcross Rd., Suite 110, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.choa.org/",
+    "phone": "404-256-2593 or 800-542-2233",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Providing Advanced",
+      "Compassionate Care in 60-plus Pediatric Specialties"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "peachcare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01463736147379,
+      33.958204052023085
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=738%20Old%20Norcross%20Rd.%2C%20Suite%20110%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 12,
+    "name": "Choice One Dental of Lawrenceville",
+    "address": "65 Lawrenceville-Suwanee Rd., #7, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.choiceonedentallawrenceville.com/",
+    "phone": "678-407-3919",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Dental Care"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.02775715962728,
+      33.93506180427168
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=65%20Lawrenceville-Suwanee%20Rd.%2C%20%237%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 13,
+    "name": "Chris180-Gwinnett Counseling Center",
+    "address": "760 Longleaf Blvd., Suite A, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://chris180.org/counseling-services/",
+    "phone": "770-722-0080",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Mental Health Counseling - CHRIS 180 offers a wide range of therapies and counseling specialties",
+      "ensuring our clients have the resources and support they need",
+      "both in-person and virtually at our offices across Metro Atlanta. Individual",
+      "family and group counseling is available depending on clinical needs. Our diverse and inclusive staff is trained to serve a range of populations",
+      "including families",
+      "veterans",
+      "and the LGBTQ+ and Hispanic communities."
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.9954571749687,
+      33.93549069092368
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=760%20Longleaf%20Blvd.%2C%20Suite%20A%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 14,
+    "name": "Dental Images of Gwinnett",
+    "address": "916 Lawrenceville Hwy, #20, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://dentistinlawrencevillega.com",
+    "phone": "770-874-4596",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Dental Care"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01104610380372,
+      33.943126082835256
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=916%20Lawrenceville%20Hwy%2C%20%2320%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 15,
+    "name": "Forster Eyecare",
+    "address": "725 Walther Rd. NW, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.forstereyecare.com/",
+    "phone": "770-513-3300",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.00584164030865,
+      33.969325305768045
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=725%20Walther%20Rd.%20NW%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 16,
+    "name": "Four Corners Primary Care Clinic",
+    "address": "175 Gwinnett Dr., Suite 213 (2nd floor), Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://fcpchealth.com/",
+    "phone": "770-806-2928",
+    "schedule": "Monday - Friday: 9:00 AM - 9:00 PM\nSaturday: 9:00 AM - 7:00 PM\nSunday: 10:00 AM - 6:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "french",
+      "creole",
+      "vietnamese",
+      "hindi",
+      "portuguese",
+      "punjabi",
+      "farsi"
+    ],
+    "services": [
+      "Adult Medicine",
+      "Pediatrics/Adolescent Care",
+      "Family Planning/GYN",
+      "Pharmacy",
+      "Podiatry (Adult & Pediatric)",
+      "Health Education & Nutrition Counseling",
+      "Medication Assisted Treatment",
+      "COVID-19 vax and all other vaccinations at Norcross location only (COVID-19 vax for ages 5 and up)",
+      "COVID-19 Testing for symptomatic patients (not travel)",
+      "STD/STI Testing",
+      "TB Testing",
+      "Nephrology Testing",
+      "Quantiferon Testing",
+      "Blood pressure tracker (Machines free of cost for patients with hypertension",
+      "tracks via connected app)",
+      "Community Outreach center helps to connect vulnerable populations with other assistance resources. Pediatrician is only available at the Norcross office",
+      "which is the main office. Children are still able to receive services at all locations."
+    ],
+    "serviceType": "pharmacy",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "State issued ID/Driver’s license Passport or Consulate ID If you have any type of medical insurance, bring insurance card. If you do not have medical Insurance please bring last three pay stubs or most recent bank statements. If self-employed bring most recent Federal Tax Return.",
+    "other": "",
+    "coordinates": [
+      -83.99425927681581,
+      33.94363558245116
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=175%20Gwinnett%20Dr.%2C%20Suite%20213%20(2nd%20floor)%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 17,
+    "name": "Georgia Clinic - Lawrenceville",
+    "address": "845 Scenic Hwy., Suite 100, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://gaclinicpc.com/",
+    "phone": "770-962-6443",
+    "schedule": "Monday - Friday: 9:00 AM - 9:00 PM\nSaturday: 9:00 AM - 7:00 PM\nSunday: 10:00 AM - 6:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "hindi"
+    ],
+    "services": [
+      "Primary Care",
+      "Pharmacy",
+      "Cardiac Imaging & Testing",
+      "Diagnostic Testing / Radiology",
+      "Laboratory Testing",
+      "Podiatry",
+      "Nephrology",
+      "Pain Management"
+    ],
+    "serviceType": "pharmacy",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "Photo ID, Medications Lists, and Proof of Insurance for Medicaid/Medicare",
+    "other": "",
+    "coordinates": [
+      -84.00005700380474,
+      33.919392518907465
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=845%20Scenic%20Hwy.%2C%20Suite%20100%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 18,
+    "name": "Georgia Eye Associates",
+    "address": "771 Old Norcross Rd., #150, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.georgiaeyeassociates.com/locations/lawrenceville/?y_source=1_MTA3Njk4NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "770-995-5408",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01760828846163,
+      33.958657646851094
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=771%20Old%20Norcross%20Rd.%2C%20%23150%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 19,
+    "name": "Georgia Family Care - Lawrenceville",
+    "address": "3560 Sugarloaf Pkwy., Suite 100, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://gafamilycare.com/locations/lawrenceville-office/",
+    "phone": "678-578-4983",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Family Care",
+      "Men’s Health",
+      "Women’s Health",
+      "Pediatric Health",
+      "Geriatric Care"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.0215208056519,
+      33.925557426130375
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3560%20Sugarloaf%20Pkwy.%2C%20Suite%20100%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 20,
+    "name": "Great Expressions Dental Centers - Lawrenceville",
+    "address": "555 Old Norcross Rd., #120, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.greatexpressions.com/dental-offices/dentist-in-lawrenceville-georgia-old-norcross-rd/",
+    "phone": "770-637-5899",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Dental Care (Adult & Pediatric)"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.00680617496766,
+      33.959793646203444
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=555%20Old%20Norcross%20Rd.%2C%20%23120%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 21,
+    "name": "Gwinnett Center Medical Associates (Christopher Crooker, MD)",
+    "address": "748 Old Norcross Rd., Suite 185, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.drcrooker.com/",
+    "phone": "770-277-8554",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Annual Examinations",
+      "Wellness Plans",
+      "Adult Immunizations",
+      "Women's Health",
+      "Weight Management",
+      "Medication Management",
+      "Diabetes Education",
+      "Hypertension",
+      "Geriatrics",
+      "Arthritis Care"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01532579030915,
+      33.957547750680085
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=748%20Old%20Norcross%20Rd.%2C%20Suite%20185%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 22,
+    "name": "Gwinnett County Health Department",
+    "address": "455 Grayson Hwy., Suite 300, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.gnrhealth.com/locations/gwinnett/lawrenceville-health-center/",
+    "phone": "770-339-4283",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Child Immunizations",
+      "Women",
+      "Infants",
+      "and Children (WIC)",
+      "Dental Care",
+      "Children Health Check Exams",
+      "Children 1st",
+      "School Screenings",
+      "Teen Services",
+      "Family Planning",
+      "DNA/Lab Tests",
+      "Pregnancy and Prenatal Related Services",
+      "Mammograms/Services for Women over 40",
+      "Cancer Screenings",
+      "Travel & Adult Immunizations",
+      "STD Testing",
+      "Treatment and Follow-up",
+      "TB Testing and Treatment",
+      "Disease Testing and Counseling",
+      "Environmental Health Services",
+      "Refugee Health",
+      "PrEP for HIV Prevention"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "sliding_scale",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "All health services at this location now require an appointment.",
+    "other": "",
+    "coordinates": [
+      -83.98523339030989,
+      33.93943078556745
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=455%20Grayson%20Hwy.%2C%20Suite%20300%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 23,
+    "name": "Gwinnett Family Dental Care",
+    "address": "3455 Lawrenceville Hwy, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.gwinnettfamilydentalcare.com/",
+    "phone": "770-921-1115",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "creole",
+      "hindi",
+      "turkish",
+      "russian",
+      "hebrew",
+      "gujarati"
+    ],
+    "services": [
+      "General Dentistry",
+      "Oral Surgery",
+      "Cosmetic Procedures"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.09759441729881,
+      33.91560853864321
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3455%20Lawrenceville%20Hwy%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 24,
+    "name": "Gwinnett Gynecology & Obstetrics",
+    "address": "500 Medical Center Blvd., #300, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "N/A",
+    "phone": "770-963-1340",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "OBGYN",
+      "GYN Surgery",
+      "No baby delivery"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "Photo ID and Proof of Insurance",
+    "other": "",
+    "coordinates": [
+      -84.0151848479796,
+      33.96296934155342
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=500%20Medical%20Center%20Blvd.%2C%20%23300%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 25,
+    "name": "Gwinnett Surgical Specialists",
+    "address": "631 Professional Dr., Suite 300, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://gwinnettsurgicalspecialists.com/",
+    "phone": "770-962-9977",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Breast Cancer surgery & reconstruction",
+      "General surgery procedures"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare"
+    ],
+    "serviceArea": "",
+    "requirements": "Apply for financial assistance (suggested) 1st before appointment. Mammograms not done at northside. reports and disks bring in. Masks required.",
+    "other": "",
+    "coordinates": [
+      -84.01828886147355,
+      33.96260854672751
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=631%20Professional%20Dr.%2C%20Suite%20300%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 26,
+    "name": "Haywood Eye & Vision Care",
+    "address": "757 Old Norcross Rd., Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.haywoodeye.com/",
+    "phone": "678-442-1161",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision Care",
+      "Eye Exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01667976147378,
+      33.95880835282022
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=757%20Old%20Norcross%20Rd.%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 27,
+    "name": "KL Medical Clinic",
+    "address": "905 Parkside Walk Ln., Suite 100A, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://klmedicalclinic.com/",
+    "phone": "678-442-9486",
+    "schedule": "Monday - Sunday: 8:00 AM - 8:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Urgent Care & Primary Care. We take care of non-emergency injuries",
+      "physical and immigration medical exams",
+      "and general health care."
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.02653318846114,
+      33.96939363177636
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=905%20Parkside%20Walk%20Ln.%2C%20Suite%20100A%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 28,
+    "name": "Lawrenceville Dental Associates",
+    "address": "171 Gwinnett Dr, #C, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://lawrencevilledentalassociates.com",
+    "phone": "770-913-6808",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Dental Care"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.99764901914492,
+      33.948350673574986
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=171%20Gwinnett%20Dr%2C%20%23C%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 29,
+    "name": "Lawrenceville Family Dental Care",
+    "address": "2087 Cruse Rd. NW, Suite A, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.lawrencevilledental.com/",
+    "phone": "770-962-1977",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Children’s Dentistry"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.06439224798025,
+      33.94911697223556
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2087%20Cruse%20Rd.%20NW%2C%20Suite%20A%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 30,
+    "name": "Lawrenceville Family Eyecare",
+    "address": "575 Professional Dr, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://drkazemeyecare.net/",
+    "phone": "678-993-2020",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "farsi"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01233111729672,
+      33.96512583853781
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=575%20Professional%20Dr%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 31,
+    "name": "LifeStance Health - Lawrenceville",
+    "address": "1838 Old Norcross Rd., Suite 400, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://rhcounselingservices.com/",
+    "phone": "678-213-2194",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Mental Health Counseling",
+      "Individual Therapy",
+      "Marriage/Couples Therapy",
+      "Family Therapy",
+      "Child/Teen Therapy",
+      "Online Therapy"
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.05539444613262,
+      33.95217816823474
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1838%20Old%20Norcross%20Rd.%2C%20Suite%20400%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 32,
+    "name": "Mason Pediatrics",
+    "address": "665 Duluth Hwy., Suite 920, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.northside.com/mason",
+    "phone": "678-312-5250",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Pediatric Care from birth to 16 yrs. Annual wellness check-ups Newborn examinations and physicals Sick visits on Monday",
+      "Wednesday and Friday afternoons Vaccines",
+      "as recommended by the Centers for Disease Control and Prevention"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.0090509903088,
+      33.9663415471133
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=665%20Duluth%20Hwy.%2C%20Suite%20920%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 33,
+    "name": "Maternal-Fetal Specialists",
+    "address": "500 Medical Center Blvd., #210, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.mednax.com/practice/maternalfetalspecialists/",
+    "phone": "770-822-3344",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Services: Advanced Maternal Age",
+      "Complicated Pregnancy",
+      "Diabetes Management in Pregnancy",
+      "Genetic Counseling",
+      "Heart Disease",
+      "High Risk Obstetric Care and Consults",
+      "High-Risk Pregnancy",
+      "Hypertension",
+      "In Vitro Fertilization",
+      "Inpatient Consultation and Care",
+      "Kidney Disease",
+      "Management of Multiple Gestations (twins or more)",
+      "Morbidly Obese Patients",
+      "Pre-Conception Counseling",
+      "Prematurity Testing"
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "Proof of insurance and ID, Pre-registration paperwork sent once appointment is scheduled which requests any other required docs",
+    "other": "",
+    "coordinates": [
+      -84.01517411914423,
+      33.96298713851891
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=500%20Medical%20Center%20Blvd.%2C%20%23210%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 34,
+    "name": "Medlink Georgia Community Health Center",
+    "address": "980 Lawrenceville Hwy., Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://medlinkga.org/location/lawrenceville/",
+    "phone": "770-676-6500",
+    "schedule": "Monday - Friday: 9:00 AM - 9:00 PM\nSaturday: 9:00 AM - 7:00 PM\nSunday: 10:00 AM - 6:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Medical Services - Income based - Family Health Services",
+      "Educational Services",
+      "Family Planning & Birth Control",
+      "Behavioral Health",
+      "Medication Assisted Recovery",
+      "Occupational Health",
+      "Sexual Health",
+      "Well Child Checks",
+      "Pharmacy Delivery to Office."
+    ],
+    "serviceType": "pharmacy",
+    "paymentMethods": [
+      "medicaid",
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01207550380377,
+      33.94233088887715
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=980%20Lawrenceville%20Hwy.%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 35,
+    "name": "Milan Eye Center",
+    "address": "1250 Scenic Hwy. N., Suite 1700, Lawrenceville, GA, 30045",
+    "city": "Lawrenceville",
+    "website": "https://www.milaneyecenter.com/location/snellville/",
+    "phone": "678-853-7715",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.00428854613477,
+      33.90083872802831
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1250%20Scenic%20Hwy.%20N.%2C%20Suite%201700%2C%20Lawrenceville%2C%20GA%2C%2030045"
+  },
+  {
+    "id": 36,
+    "name": "MyEyeDr.",
+    "address": "875 Lawrenceville-Suwanee Rd., Suite 560, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "N/A",
+    "phone": "770-963-0370",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01500260380251,
+      33.9699742440277
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=875%20Lawrenceville-Suwanee%20Rd.%2C%20Suite%20560%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 37,
+    "name": "Navigate Recovery - Safe Harbor",
+    "address": "52 Gwinnett Dr., Suite A, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.navigaterecoverygwinnett.org/recovery-resource-center/",
+    "phone": "678-743-1808",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Offer support meetings and coaching sessions. Provides recourse options for treatment",
+      "detox",
+      "recovery housing",
+      "recovery centers",
+      "continued recovery coaching and meeting sites."
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "sliding_scale"
+    ],
+    "serviceArea": "Gwinnett County Residents Only",
+    "requirements": "Free services. Court-appointed clients bring court documents.",
+    "other": "",
+    "coordinates": [
+      -83.99662050380353,
+      33.94698337597714
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=52%20Gwinnett%20Dr.%2C%20Suite%20A%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 38,
+    "name": "North Metro Women's Healthcare",
+    "address": "601 Professional Dr., #290A, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "N/A",
+    "phone": "770-338-8331",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Obstetrics & Gynecology",
+      "Family Medicine"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01253933263816,
+      33.96421265023223
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=601%20Professional%20Dr.%2C%20%23290A%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 39,
+    "name": "Northside Gwinnett OB/GYN - Lawrenceville",
+    "address": "1942 Atkinson Rd. NW., Suite 100, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://northsidegwinnettobgyn.com/",
+    "phone": "678-775-0600",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Obstetrics: Midwifery care",
+      "Health maintenance during pregnancy",
+      "High risk pregnancy care",
+      "Routine prenatal care. Gynecological Services: Family Planning",
+      "Infertility",
+      "Operative Gynecology",
+      "Pelvic Pain",
+      "Endometriosis",
+      "Pre and post menopause",
+      "Routine/Well woman Care",
+      "Uterine Fibroids",
+      "Utero-vaginal Prolapse"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.080256147979,
+      33.97795832395022
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1942%20Atkinson%20Rd.%20NW.%2C%20Suite%20100%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 40,
+    "name": "Northside Hospital Gwinnett",
+    "address": "1000 Medical Center Blvd., Lawrenceville, GA, 30045",
+    "city": "Lawrenceville",
+    "website": "https://www.northside.com/locations/northside-hospital-gwinnett",
+    "phone": "678-312-1000",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Comprehensive inpatient and outpatient services as well as 24-hour emergency and trauma care",
+      "cardiac",
+      "maternity and cancer services."
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "Parking Rates - First 30 Minutes: Free; 31 Minutes & Over: $3 / Day; Day Pass: $6 / 24 hours; Lost Ticket: $10",
+    "coordinates": [
+      -84.01706680198303,
+      33.9650564680769
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1000%20Medical%20Center%20Blvd.%2C%20Lawrenceville%2C%20GA%2C%2030045"
+  },
+  {
+    "id": 41,
+    "name": "Now Eye See Family Eye Care",
+    "address": "3153 Sugarloaf Pkwy. #201, Lawrenceville, GA, 30045",
+    "city": "Lawrenceville",
+    "website": "https://www.now-eye-see.com/",
+    "phone": "770-682-6525",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.00870786147533,
+      33.92159603241003
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3153%20Sugarloaf%20Pkwy.%20%23201%2C%20Lawrenceville%2C%20GA%2C%2030045"
+  },
+  {
+    "id": 42,
+    "name": "Obria Medical Clinic - Lawrenceville",
+    "address": "565 Old Norcross Rd., Suite 200, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://obria.org/lawrenceville/clinic/lawrenceville-ga/",
+    "phone": "770-338-1680",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish",
+      "french",
+      "creole"
+    ],
+    "services": [
+      "Breast & cervical cancer screening; free HIV/Aids testing & referral; teen pregnancy coaching & information about Georgia’s reproductive law; Men’s Health support services (free STD & STI testing); Optimal Health Coaching; pregnancy tests; reproductive loss advice & guidance; STD/STI testing and treatment; prenatal care; ultrasounds; well-woman care; abortion pill reversal; adoptive services referrals and guidance; Obria can write orders for mammograms at Northside Hospital Gwinnett. Patients earn points and can spend them at Obria’s Baby Store",
+      "which carries basic baby care items",
+      "along with some big items."
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "Proof of Medicaid insurance; Photo ID",
+    "other": "",
+    "coordinates": [
+      -84.00748091914438,
+      33.96010255384822
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=565%20Old%20Norcross%20Rd.%2C%20Suite%20200%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 43,
+    "name": "Optima Dental",
+    "address": "1790 Atkinson Rd. NW, Building 4, Suite B, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://www.optimafamilydentist.com",
+    "phone": "770-962-4322",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Dental Care (Adult & Pediatric)"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.07739051729635,
+      33.97318023709338
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1790%20Atkinson%20Rd.%20NW%2C%20Building%204%2C%20Suite%20B%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 44,
+    "name": "Peach Smiles",
+    "address": "4825 Sugarloaf Pkwy, A, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.peachsmiles.com/contact/",
+    "phone": "770-637-1041",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Dental Care (Adult & Pediatric)"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.05193484797998,
+      33.95537025475064
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=4825%20Sugarloaf%20Pkwy%2C%20A%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 45,
+    "name": "Peachtree Immediate Care - Lawrenceville",
+    "address": "696 Grayson Hwy., Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.peachtreemed.com/",
+    "phone": "770-963-0927",
+    "schedule": "Monday - Sunday: 8:00 AM - 8:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Covid-19 Testing",
+      "Urgent Care",
+      "Family Care",
+      "Minor Illness & Injury",
+      "COVID-19 PCR Testing",
+      "COVID-19 Rapid Antigen Testing",
+      "Sports Physicals",
+      "X-rays",
+      "On-Site Labs",
+      "Occupational Medicine",
+      "*For patients under 2 years old",
+      "please call clinic."
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicare",
+      "peachcare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.97716973263951,
+      33.93362919814993
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=696%20Grayson%20Hwy.%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 46,
+    "name": "Piedmont Urgent Care - WellStreet",
+    "address": "3330 Sugarloaf Pkwy., Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.wellstreet.com/",
+    "phone": "678-710-2727",
+    "schedule": "Monday - Sunday: 8:00 AM - 8:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Urgent Care"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01643487681676,
+      33.92080705162698
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=3330%20Sugarloaf%20Pkwy.%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 47,
+    "name": "Planned Parenthood - Gwinnett Health Center",
+    "address": "798 Lawrenceville-Suwanee Rd., Suite 300, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://www.plannedparenthood.org/planned-parenthood-southeast",
+    "phone": "404-688-9300",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Abortion services/referrals",
+      "Birth control/emergency contraception",
+      "General healthcare",
+      "HIV Services",
+      "STD Testing/Treatment",
+      "Men/Women's services",
+      "Transgender hormone therapy",
+      "Pregnancy testing & services"
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "ID and proof of insurance",
+    "other": "",
+    "coordinates": [
+      -84.02425123263806,
+      33.96620623811371
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=798%20Lawrenceville-Suwanee%20Rd.%2C%20Suite%20300%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 48,
+    "name": "Preventive Health Clinic",
+    "address": "455 Grayson Hwy., Suite 400, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.gnrhealth.com/locations/gwinnett/preventive-health-dept/",
+    "phone": "770-339-4283",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "vietnamese"
+    ],
+    "services": [
+      "Child Immunizations",
+      "Women",
+      "Infants",
+      "and Children (WIC)",
+      "Dental Care",
+      "Children Health Check Exams",
+      "Children 1st",
+      "School Screenings",
+      "Teen Services",
+      "Family Planning",
+      "DNA/Lab Tests",
+      "Pregnancy and Prenatal Related Services",
+      "Mammograms/Services for Women over 40",
+      "Cancer Screenings",
+      "Travel Immunizations",
+      "Adult Immunizations",
+      "STD Testing",
+      "Treatment and Follow-up",
+      "TB Testing and Treatment",
+      "Disease Testing and Counseling",
+      "Environmental Health Services",
+      "Refugee Health",
+      "PrEP for HIV Prevention"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "medicaid"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.9838708921574,
+      33.93866888867919
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=455%20Grayson%20Hwy.%2C%20Suite%20400%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 49,
+    "name": "Quality Eyecare",
+    "address": "5900 Sugarloaf Pkwy., Suite#125, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://www.gaqualityeyecare.com/",
+    "phone": "678-847-5331",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.08154315266074,
+      33.982127474801025
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5900%20Sugarloaf%20Pkwy.%2C%20Suite%23125%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 50,
+    "name": "Reagan Medical Center - Grayson Hwy",
+    "address": "289 Grayson Hwy, Lawrenceville, GA 30046",
+    "city": "Lawrenceville",
+    "website": "https://rmc.md/",
+    "phone": "770-771-5560",
+    "schedule": "Monday - Sunday: 8:00 AM - 8:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Services provided at all locations include: blood work",
+      "ABIs (Ankle Brachial Index)",
+      "EKGs",
+      "geriatric care",
+      "Holter monitors",
+      "Lung Function Tests",
+      "pain management",
+      "pap smears",
+      "suturing",
+      "urgent care",
+      "acute care",
+      "physicials and medical help with smoke cessation",
+      "fractures and splints",
+      "weight loss",
+      "workers compensation",
+      "X-rays",
+      "and pain management"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "Insured patients must have an insurance card and ID. Medicare patients must have the name of the physician at the facility listed as PCP. This can be done at the facility once they are there by calling Medicare.",
+    "other": "",
+    "coordinates": [
+      -83.98514272883536,
+      33.944748207973234
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=289%20Grayson%20Hwy%2C%20Lawrenceville%2C%20GA%2030046"
+  },
+  {
+    "id": 51,
+    "name": "Rodriguez MD",
+    "address": "771 Old Norcross Rd., Suite 120, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://lawrenceville-doctors.com/",
+    "phone": "770-670-6920",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish",
+      "french",
+      "creole"
+    ],
+    "services": [
+      "General Practice (Smoking Cessation",
+      "Emphysema",
+      "Arthritis",
+      "Mole Biopsy and Excisions",
+      "Lacerations & Sutures",
+      "Diabetes",
+      "Bone Density/Osteoporosis Treatment",
+      "Mental Health)",
+      "Family Medicine (Women's Health",
+      "Preventative Health",
+      "Family Planning",
+      "Communicable Diseases",
+      "Immunizations",
+      "Allergy Testing",
+      "Cold & Flu",
+      "Labs)",
+      "Medical Weight Loss",
+      "COVID-19 Resources"
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "Dacula, Duluth, Grayson, Lawrenceville, Lilburn, Loganville, Norcross, Snellville, Suwanee",
+    "requirements": "Bring active medications list or bottles, previous PCP info or specialist info, Photo ID & Proof of insurance",
+    "other": "",
+    "coordinates": [
+      -84.017370817297,
+      33.95854115750056
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=771%20Old%20Norcross%20Rd.%2C%20Suite%20120%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 52,
+    "name": "Southern Surgical Associates",
+    "address": "743 Old Norcross Rd., Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://gwinnettgeneralsurgeons.com/",
+    "phone": "770-513-1763",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Hernia Repairs",
+      "Breast Procedures",
+      "Soft tissue excisions",
+      "Laparoscopic cholecystectomies",
+      "Hemorrhoidectomies",
+      "Pilonidal cystectomies"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare"
+    ],
+    "serviceArea": "",
+    "requirements": "May download new-patient forms on website for first time visits. Bring proof of insurance and ID",
+    "other": "",
+    "coordinates": [
+      -84.01552857681511,
+      33.95949805031427
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=743%20Old%20Norcross%20Rd.%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 53,
+    "name": "Salveo Integrative Health",
+    "address": "311 Gwinnett Dr. SW, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://salveohealth.org/",
+    "phone": "770-910-9196",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Salveo psychiatrists provide treatment for Depression",
+      "Anxiety",
+      "Attention Deficit Disorder",
+      "Child & Adolescent Behavior Disorders",
+      "Psychosis",
+      "Dementia",
+      "Alzheimer’s Disease",
+      "Bipolar Disorder",
+      "Substance Abuse",
+      "Trauma",
+      "Grief",
+      "Family Issues",
+      "LGBTQ Issues",
+      "and many other behavioral health concerns."
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "sliding_scale"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "Walk Ins - Monday, Wednesday, Thursdays 9am – 3pm",
+    "coordinates": [
+      -83.99083007681591,
+      33.94133428146462
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=311%20Gwinnett%20Dr.%20SW%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 54,
+    "name": "Strickland Family Medicine Center",
+    "address": "665 Duluth Hwy., Suite 501, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.northside.com/locations/strickland-family-medicine-center",
+    "phone": "678-312-0400",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Newborn care to geriatrics",
+      "including maternity care"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.00899544613205,
+      33.96634174711299
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=665%20Duluth%20Hwy.%2C%20Suite%20501%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 55,
+    "name": "Sugarloaf Urgent Care",
+    "address": "4835 Sugarloaf Pkwy., #200, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.sugarloafurgentcare.com/",
+    "phone": "470-375-5940",
+    "schedule": "Monday - Sunday: 8:00 AM - 8:00 PM",
+    "languages": [
+      "english",
+      "spanish",
+      "french",
+      "creole",
+      "hindi",
+      "urdu"
+    ],
+    "services": [
+      "Urgent Care",
+      "Covid-19 Testing"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "peachcare",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.05273577681528,
+      33.95560355991909
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=4835%20Sugarloaf%20Pkwy.%2C%20%23200%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 56,
+    "name": "Sugarloaf Vision Center",
+    "address": "4825 Sugarloaf Pkwy., Ste F, Lawrenceville, GA, 30044",
+    "city": "Lawrenceville",
+    "website": "https://www.sugarloafvisioncenter.com/",
+    "phone": "770-559-9670",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.05170573263854,
+      33.955310059773794
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=4825%20Sugarloaf%20Pkwy.%2C%20Ste%20F%2C%20Lawrenceville%2C%20GA%2C%2030044"
+  },
+  {
+    "id": 57,
+    "name": "Suwanee Pediatrics",
+    "address": "1155 Lawrenceville-Suwanee Rd., Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://suwaneepediatrics.com/",
+    "phone": "678-442-0205",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english",
+      "spanish",
+      "vietnamese"
+    ],
+    "services": [
+      "Pediatric Care: Immunizations",
+      "Allergy & Asthma",
+      "Sick Care Visits",
+      "Wellness Check-ups",
+      "Education/Concern Visits",
+      "Ear Lavage. Adolescent Care",
+      "Adult Services",
+      "Labs",
+      "Dermatology"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "medicaid",
+      "peachcare",
+      "sliding_scale",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "Photo ID, Proof of Insurance, Shot records",
+    "other": "",
+    "coordinates": [
+      -84.0195801903082,
+      33.97922771542096
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1155%20Lawrenceville-Suwanee%20Rd.%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 58,
+    "name": "The Hope Clinic",
+    "address": "121 Langley Dr., Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.hopeclinicgwinnett.info/",
+    "phone": "770-685-1300",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "General Medical Services",
+      "Chronic Disease Management (appointment only)",
+      "Mental Health (thru partnership with Salveo Integrative Health)",
+      "Psychiatry",
+      "Medication Assistance",
+      "Lab & X-Ray",
+      "Ultrasound Services"
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "sliding_scale",
+      "uninsured_programs"
+    ],
+    "serviceArea": "",
+    "requirements": "For first visits, bring medications list and/or papers from hospital visit if doing hospital follow-up. Proof of income for uninsured.",
+    "other": "",
+    "coordinates": [
+      -83.99735804798,
+      33.95409585934627
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=121%20Langley%20Dr.%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 59,
+    "name": "Tonge Eye Care",
+    "address": "170 Camden Hill Rd., , Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://visionsource-tongeeyecare.com/",
+    "phone": "770-963-2903",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.0112232307916,
+      33.942873082084276
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=170%20Camden%20Hill%20Rd.%2C%20%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 60,
+    "name": "Transforming Smiles - Bruce E. Carter, DMD",
+    "address": "751 Old Norcross Rd, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.gwinnettsmiles.com/contact-us.html",
+    "phone": "770-574-4540",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Dental care"
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01715316147371,
+      33.96008304431469
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=751%20Old%20Norcross%20Rd%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 61,
+    "name": "Truth's Community Clinic",
+    "address": "250 Langley Dr., Suite 1316, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.truthsclinic.org/",
+    "phone": "770-277-4675",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Non-emergency primary care",
+      "which includes medical",
+      "pharmaceutical",
+      "and dental services for qualifying patients over the age of 18. The clinic treats conditions related to high blood pressure",
+      "high cholesterol",
+      "non-insulin diabetes",
+      "asthma",
+      "thyroid issues",
+      "and women's health. The clinic is unable to manage conditions such as common colds",
+      "insulin-dependent diabetes",
+      "cancer",
+      "orthopedic concerns",
+      "and heart-related problems. Dental Clinics are offered on the first and third Thursday of each month. The clinic treats dental conditions related to fillings and extractions. The clinic is unable to manage conditions requiring root canals",
+      "crowns",
+      "and implants."
+    ],
+    "serviceType": "dental",
+    "paymentMethods": [
+      "sliding_scale",
+      "uninsured_programs",
+      "cash"
+    ],
+    "serviceArea": "Patients must reside in Lawrenceville, Buford, Dacula, and Auburn (Gwinnett County side of Buford and Auburn) Medical patients may qualify if they live outside of these areas, but dental patients MUST live within these locations.",
+    "requirements": "Must have no insurance, no Medicaid or Medicare; fall within 100 % of the Federal Poverty Level; and have a condition that Truth's Community Clinic treats. Patients who qualify based on the criteria above must then complete an application and call for an appointment. Complete and return the New Patient Forms on Monday to verify that you qualify for services. If you qualify, an appointment will be scheduled. Those with no proof of income will not be turned away from services. BY APPOINTMENT ONLY: Contact the clinic between 10 am - 3 pm Monday to see if you qualify for services. Appointments are scheduled for qualified patients on the 1st & 3rd Tuesday nights and on the 2nd and 4th Monday mornings.",
+    "other": "",
+    "coordinates": [
+      -83.9968997056506,
+      33.95646165830319
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=250%20Langley%20Dr.%2C%20Suite%201316%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 62,
+    "name": "View Point Health",
+    "address": "175 Gwinnett Dr., Suite 260, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.myviewpointhealth.org/locations/",
+    "phone": "678-209-2411",
+    "schedule": "Monday - Friday: By Appointment\nSome evening and weekend hours available",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Services for those with intellectual and developmental disabilities",
+      "mental health and substance abuse disorders. Provides outpatient care as well as community",
+      "specialty",
+      "and acute services."
+    ],
+    "serviceType": "mental_health",
+    "paymentMethods": [
+      "medicaid",
+      "medicare",
+      "uninsured_programs"
+    ],
+    "serviceArea": "",
+    "requirements": "Driver’s License or state-issued ID card, your health insurance cards, proof of address (a recent utility bill, rent receipt, or lease agreement in your name), proof of income (paycheck stub, letter from Social Security, or Earning Statement from the Department of Labor).",
+    "other": "",
+    "coordinates": [
+      -83.99417587496828,
+      33.943707680775084
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=175%20Gwinnett%20Dr.%2C%20Suite%20260%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 63,
+    "name": "Wood Eyecare Center",
+    "address": "2100 Riverside Pkwy. #108, Lawrenceville, GA, 30043",
+    "city": "Lawrenceville",
+    "website": "https://www.woodeyecare.com/",
+    "phone": "770-237-8820",
+    "schedule": "Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 4:00 PM",
+    "languages": [
+      "english",
+      "spanish"
+    ],
+    "services": [
+      "Vision care",
+      "Eye exams"
+    ],
+    "serviceType": "vision",
+    "paymentMethods": [
+      "medicare",
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.03459575777856,
+      33.96525455672074
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2100%20Riverside%20Pkwy.%20%23108%2C%20Lawrenceville%2C%20GA%2C%2030043"
+  },
+  {
+    "id": 64,
+    "name": "Toxicology Associates of North Georgia",
+    "address": "751 Collins Hill Rd. Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "http://www.tanghelp.com/",
+    "phone": "770-248-1616",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Medication Assisted Treatment for Opiod Addiction"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "cash"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -83.99469913263768,
+      33.97636070922744
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=751%20Collins%20Hill%20Rd.%20Lawrenceville%2C%20GA%2C%2030046"
+  },
+  {
+    "id": 65,
+    "name": "Maternal Gynerations",
+    "address": "600 Professional Dr., Suite 200, Lawrenceville, GA, 30046",
+    "city": "Lawrenceville",
+    "website": "https://www.matgyn.com/",
+    "phone": "770-513-4000",
+    "schedule": "Monday - Friday: 8:00 AM - 5:00 PM\nPlease call to confirm hours",
+    "languages": [
+      "english"
+    ],
+    "services": [
+      "Obstetrics",
+      "Gynecology",
+      "Infertility",
+      "Mammography",
+      "Lab Testing",
+      "Ultrasound",
+      "Cosmetic Botox"
+    ],
+    "serviceType": "medical",
+    "paymentMethods": [
+      "insurance"
+    ],
+    "serviceArea": "",
+    "requirements": "",
+    "other": "",
+    "coordinates": [
+      -84.01096261729674,
+      33.964413051593425
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=600%20Professional%20Dr.%2C%20Suite%20200%2C%20Lawrenceville%2C%20GA%2C%2030046"
+  }
+]
