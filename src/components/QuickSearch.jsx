@@ -326,8 +326,8 @@ const QuickSearch = ({
           }`}
           style={{ 
             background: '#fff', 
-            top: '126px', // Donde comienza el mapa
-            height: 'calc(100vh - 126px)', // Misma altura que el área del mapa (flex-1)
+            top: '0px', // Donde comienza el mapa
+            height: 'calc(100vh - 0px)', // Misma altura que el área del mapa (flex-1)
             left: showLocationList ? '0' : '-320px' // Completamente oculto cuando no está activo
           }}
         >
